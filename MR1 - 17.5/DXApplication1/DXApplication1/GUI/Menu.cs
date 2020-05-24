@@ -3,19 +3,23 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
-using System.Linq;
 using System.Text;
+using System.Linq;
+using System.Threading.Tasks;
 using System.Windows.Forms;
+using DevExpress.XtraEditors;
 
 namespace DXApplication1
 {
-    public partial class frm_Menu : DevExpress.XtraEditors.XtraForm
+    public partial class Menu : DevExpress.XtraEditors.XtraForm
     {
-        public frm_Menu()
+        public Menu()
         {
             InitializeComponent();
+            SetInterface();
         }
         private Form activeForm = null;
+        string Mark = "";
         private void openChildForm(Form childForm)
         {
             if (activeForm != null)
@@ -33,15 +37,54 @@ namespace DXApplication1
             childForm.BringToFront();
             childForm.Show();
         }
-
-        private void simpleButton1_Click(object sender, EventArgs e)
+        public void SetInterface()
         {
-     
+            
+        }
+        public void ChangeColorAllButton()
+        {
+            if(Mark == "btn_System")
+                btn_System.Appearance.BackColor = Color.DodgerBlue;
+            if(Mark == "btn_Sale")
+                btn_Sale.Appearance.BackColor = Color.DodgerBlue;
+            if(Mark == "btn_Statistical")
+                btn_Statistical.Appearance.BackColor = Color.DodgerBlue;
+            if (Mark == "btn_Help")
+                btn_Help.Appearance.BackColor = Color.DodgerBlue;
+        }
+        private void btn_System_Click(object sender, EventArgs e)
+        {
+            ChangeColorAllButton();
+            Mark = "btn_System";
+            btn_System.Appearance.BackColor = SystemColors.MenuHighlight;
+            openChildForm(new TabSystem());
         }
 
-        private void labelControl4_Click(object sender, EventArgs e)
+        private void btn_Sale_Click(object sender, EventArgs e)
+        {
+            ChangeColorAllButton();
+            Mark = "btn_Sale";
+            btn_Sale.Appearance.BackColor = SystemColors.MenuHighlight;
+        }
+
+        private void btn_Statistical_Click(object sender, EventArgs e)
+        {
+            ChangeColorAllButton();
+            Mark = "btn_Statistical";
+            btn_Statistical.Appearance.BackColor = SystemColors.MenuHighlight;
+        }
+
+        private void btn_Help_Click(object sender, EventArgs e)
+        {
+            ChangeColorAllButton();
+            Mark = "btn_Help";
+            btn_Help.Appearance.BackColor = SystemColors.MenuHighlight;
+        }
+
+        private void panelChildForm_Paint(object sender, PaintEventArgs e)
         {
 
         }
     }
+   
 }

@@ -20,7 +20,7 @@ namespace DXApplication1
             Application.SetCompatibleTextRenderingDefault(false);
 
             BonusSkins.Register();
-            Application.Run(new frm_Menu());
+            Application.Run(new Menu());
         }
     }
 }

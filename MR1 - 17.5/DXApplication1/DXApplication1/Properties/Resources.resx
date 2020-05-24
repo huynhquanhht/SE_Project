@@ -121,7 +121,19 @@
   <data name="Category_Icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Image\Category_Icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Receipt_Icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Image\Receipt_Icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Food_Icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Image\Food_Icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TableFood_Icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Image\TableFood_Icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Employee_Icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Image\Employee_Icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="System_Icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Image\System_Icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
