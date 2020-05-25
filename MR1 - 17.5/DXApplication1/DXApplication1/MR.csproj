@@ -34,11 +34,15 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="DevExpress.BonusSkins.v19.1" />
+    <Reference Include="DevExpress.Charts.v19.1.Core, Version=19.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
     <Reference Include="DevExpress.Data.v19.1" />
     <Reference Include="DevExpress.Utils.v19.1" />
     <Reference Include="DevExpress.Sparkline.v19.1.Core" />
     <Reference Include="DevExpress.Xpo.v19.1, Version=19.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
     <Reference Include="DevExpress.XtraBars.v19.1, Version=19.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v19.1, Version=19.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraCharts.v19.1.UI, Version=19.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v19.1.Wizard, Version=19.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
     <Reference Include="DevExpress.XtraEditors.v19.1" />
     <Reference Include="DevExpress.Printing.v19.1.Core" />
     <Reference Include="DevExpress.XtraGrid.v19.1, Version=19.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
@@ -66,108 +70,90 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="GUI\Account.cs">
+    <Compile Include="GUI\TabStatistic\Sales.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="GUI\Account.Designer.cs">
+    <Compile Include="GUI\TabStatistic\Sales.Designer.cs">
+      <DependentUpon>Sales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\TabSystem\Account.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\TabSystem\Account.Designer.cs">
       <DependentUpon>Account.cs</DependentUpon>
     </Compile>
-    <Compile Include="GUI\Bill.cs">
+    <Compile Include="GUI\TabSystem\Bill.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="GUI\Bill.Designer.cs">
+    <Compile Include="GUI\TabSystem\Bill.Designer.cs">
       <DependentUpon>Bill.cs</DependentUpon>
     </Compile>
-    <Compile Include="GUI\Category.cs">
+    <Compile Include="GUI\TabSystem\Category.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="GUI\Category.Designer.cs">
+    <Compile Include="GUI\TabSystem\Category.Designer.cs">
       <DependentUpon>Category.cs</DependentUpon>
     </Compile>
-    <Compile Include="GUI\Employee.cs">
+    <Compile Include="GUI\TabSystem\Employee.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="GUI\Employee.Designer.cs">
+    <Compile Include="GUI\TabSystem\Employee.Designer.cs">
       <DependentUpon>Employee.cs</DependentUpon>
     </Compile>
-    <Compile Include="GUI\Table.cs">
+    <Compile Include="GUI\TabSystem\Table.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="GUI\Table.Designer.cs">
+    <Compile Include="GUI\TabSystem\Table.Designer.cs">
       <DependentUpon>Table.cs</DependentUpon>
     </Compile>
-    <Compile Include="GUI\Menu.cs">
+    <Compile Include="GUI\All\Menu.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="GUI\Menu.Designer.cs">
+    <Compile Include="GUI\All\Menu.Designer.cs">
       <DependentUpon>Menu.cs</DependentUpon>
     </Compile>
-    <Compile Include="GUI\Test.cs">
+    <Compile Include="GUI\All\Login.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="GUI\Test.Designer.cs">
-      <DependentUpon>Test.cs</DependentUpon>
-    </Compile>
-    <Compile Include="GUI\Test1.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="GUI\Test1.Designer.cs">
-      <DependentUpon>Test1.cs</DependentUpon>
-    </Compile>
-    <Compile Include="GUI\Test3.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="GUI\Test3.Designer.cs">
-      <DependentUpon>Test3.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Login.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Login.Designer.cs">
+    <Compile Include="GUI\All\Login.Designer.cs">
       <DependentUpon>Login.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="GUI\TabSystem.cs">
+    <Compile Include="GUI\TabSystem\TabSystem.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="GUI\TabSystem.Designer.cs">
+    <Compile Include="GUI\TabSystem\TabSystem.Designer.cs">
       <DependentUpon>TabSystem.cs</DependentUpon>
     </Compile>
-    <Compile Include="GUI\System_Item.cs">
+    <Compile Include="GUI\TabSystem\Item.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="GUI\System_Item.Designer.cs">
-      <DependentUpon>System_Item.cs</DependentUpon>
+    <Compile Include="GUI\TabSystem\Item.Designer.cs">
+      <DependentUpon>Item.cs</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="GUI\Account.resx">
+    <EmbeddedResource Include="GUI\TabStatistic\Sales.resx">
+      <DependentUpon>Sales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\TabSystem\Account.resx">
       <DependentUpon>Account.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="GUI\Bill.resx">
+    <EmbeddedResource Include="GUI\TabSystem\Bill.resx">
       <DependentUpon>Bill.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="GUI\Category.resx">
+    <EmbeddedResource Include="GUI\TabSystem\Category.resx">
       <DependentUpon>Category.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="GUI\Employee.resx">
+    <EmbeddedResource Include="GUI\TabSystem\Employee.resx">
       <DependentUpon>Employee.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="GUI\Table.resx">
+    <EmbeddedResource Include="GUI\TabSystem\Table.resx">
       <DependentUpon>Table.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="GUI\Menu.resx">
+    <EmbeddedResource Include="GUI\All\Menu.resx">
       <DependentUpon>Menu.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="GUI\Test.resx">
-      <DependentUpon>Test.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="GUI\Test1.resx">
-      <DependentUpon>Test1.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="GUI\Test3.resx">
-      <DependentUpon>Test3.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Login.resx">
+    <EmbeddedResource Include="GUI\All\Login.resx">
       <DependentUpon>Login.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\licenses.licx" />
@@ -176,11 +162,11 @@
       <SubType>Designer</SubType>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <EmbeddedResource Include="GUI\TabSystem.resx">
+    <EmbeddedResource Include="GUI\TabSystem\TabSystem.resx">
       <DependentUpon>TabSystem.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="GUI\System_Item.resx">
-      <DependentUpon>System_Item.cs</DependentUpon>
+    <EmbeddedResource Include="GUI\TabSystem\Item.resx">
+      <DependentUpon>Item.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="App.config" />
     <None Include="Properties\Settings.settings">
@@ -218,6 +204,10 @@
   </ItemGroup>
   <ItemGroup>
     <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="GUI\TabHelp\" />
+    <Folder Include="GUI\TabSale\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
