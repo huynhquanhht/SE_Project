@@ -159,6 +159,7 @@ namespace DXApplication1.GUI.TabSale
 
         private void btnAdd_Click(object sender, EventArgs e)
         {
+
             if (dtgvBill.Tag == null)
             {
                 MessageBox.Show("Vui lòng chọn bàn");
@@ -166,29 +167,34 @@ namespace DXApplication1.GUI.TabSale
             else
             {
                 // int IDCategory = (int)(cbbCategory.SelectedItem as CbbItem).Key;
-                if (cbbFood.SelectedItem == null || cbbCategory.SelectedItem==null)
+                if (cbbFood.SelectedItem == null || cbbCategory.SelectedItem == null)
                 {
                     MessageBox.Show("Vui lòng chọn món");
-                
+
                 }
                 else
                 {
+                    MessageBox.Show("AA");
                     int IDFood = (int)(cbbFood.SelectedItem as CbbItem).Key;
                     int amount = Int32.Parse(nmAmount.Value.ToString());
                     int IDBill = Convert.ToInt32(dtgvBill.Tag);
                     AddFood(IDBill, IDFood, amount);
+                    gridView1.AddNewRow();
                     (dtgvBill.MainView as DevExpress.XtraGrid.Views.Grid.GridView).AddNewRow();
                     int rowHandle = gridView1.GetRowHandle(gridView1.DataRowCount);
                     Item food = GetFoodByIDFood(IDFood);
-                    if (gridView1.IsNewItemRow(rowHandle))
+                  //  if (gridView1.IsNewItemRow(rowHandle))
                     {
-                        (dtgvBill.MainView as DevExpress.XtraGrid.Views.Grid.GridView).SetRowCellValue(rowHandle, gridView1.Columns[0], GetNameFoodByIDFood(IDFood));
-                        (dtgvBill.MainView as DevExpress.XtraGrid.Views.Grid.GridView).SetRowCellValue(rowHandle, gridView1.Columns[1], nmAmount.Value);
-                        (dtgvBill.MainView as DevExpress.XtraGrid.Views.Grid.GridView).SetRowCellValue(rowHandle, gridView1.Columns[2], food.Price);
-                        (dtgvBill.MainView as DevExpress.XtraGrid.Views.Grid.GridView).SetRowCellValue(rowHandle, gridView1.Columns[3], (food.Price * nmAmount.Value));
+                        MessageBox.Show(GetNameFoodByIDFood(IDFood) + "\n" + nmAmount.Value + "\n" + food.Price+"\n"+ rowHandle);
+                        gridView1.SetRowCellValue(rowHandle, gridView1.Columns["Tên món"], GetNameFoodByIDFood(IDFood));
+                        gridView1.SetRowCellValue(rowHandle, gridView1.Columns["Số lượng"], nmAmount.Value);
+                        gridView1.SetRowCellValue(rowHandle, gridView1.Columns["Đơn giá"], food.Price);
+                        //(dtgvBill.MainView as DevExpress.XtraGrid.Views.Grid.GridView).SetRowCellValue(rowHandle, gridView1.Columns["Thành tiền"], (food.Price * nmAmount.Value));
+                        gridView1.SetRowCellValue(rowHandle, gridView1.Columns["Thành tiền"], (food.Price * nmAmount.Value));
+
                     }
                 }
-                
+
             }
 
 
