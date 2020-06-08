@@ -12,12 +12,23 @@ using DXApplication1.DAL;
 using DXApplication1.DTO;
 namespace DXApplication1.GUI.TabSale
 {
+
     public partial class fSale : DevExpress.XtraEditors.XtraForm
     {
+        private Employee employee = new Employee() { Id=3,Id_Account=1};
         public fSale()
         {
             InitializeComponent();
             LoadAll();
+        }
+        public fSale(Employee employee)
+        {
+            InitializeComponent();
+            LoadAll();
+
+            //tmp
+            this.employee = employee;
+            this.employee.Id = 3;
         }
 
 
@@ -37,7 +48,7 @@ namespace DXApplication1.GUI.TabSale
             {
                 Button btn = new Button()
                 {
-                    Text = i.ToString(),
+                    Text = (i + 1).ToString(),
                     AutoSize = true,
                     Size = new Size(size - 10, size - 10),
                     BackColor = color[i % 2],
@@ -49,29 +60,14 @@ namespace DXApplication1.GUI.TabSale
             }
         }
 
-        //void LoadPnlFood()
-        //{
-        //    int sizeImg = 65;
-        //    int sizeBtn = 90;
-        //    for (int i = 0; i < 10; ++i)
-        //    {
-        //        Image img = System.Drawing.Image.FromFile(@"E:\DoAn\MR1 - 17.5\DXApplication1\DXApplication1\Image\FoodImg\TomHum.jpg");
-        //        img = (Image)(new Bitmap(img, sizeImg, sizeImg));
-        //        Button btn = new Button() { Size = new Size(sizeBtn, sizeBtn), FlatStyle = FlatStyle.Flat, BackgroundImageLayout = ImageLayout.Zoom, Image = img, Text = "300.000", TextAlign = ContentAlignment.BottomCenter, ImageAlign = ContentAlignment.TopCenter };
-        //        btn.BackColor = Color.White;
 
-        //        pnlTable.Controls.Add(btn);
-        //    }
-        //}
 
         void LoadAll()
         {
             LoadPnTable();
             LoadListCategory();
+            LoadColumnBill();
         }
-
-
-
 
 
         private void LoadListCategory()
@@ -118,8 +114,8 @@ namespace DXApplication1.GUI.TabSale
 
             using (SE_08 db = new SE_08())
             {
-                var q = db.Bills.Where(p => p.Id_Table == IDTable && p.Is_Deleted == false).Select(p => p.Id).FirstOrDefault();
-                // MessageBox.Show(q + "");
+                var q = db.Bills.Where(p => p.Id_Table == IDTable && p.Is_Deleted == false && p.Status == false).Select(p => p.Id).FirstOrDefault();
+                //  MessageBox.Show("q: " + q);
                 return q;
             }
         }
@@ -166,7 +162,6 @@ namespace DXApplication1.GUI.TabSale
             }
             else
             {
-                // int IDCategory = (int)(cbbCategory.SelectedItem as CbbItem).Key;
                 if (cbbFood.SelectedItem == null || cbbCategory.SelectedItem == null)
                 {
                     MessageBox.Show("Vui lòng chọn món");
@@ -174,35 +169,60 @@ namespace DXApplication1.GUI.TabSale
                 }
                 else
                 {
-                    MessageBox.Show("AA");
-                    int IDFood = (int)(cbbFood.SelectedItem as CbbItem).Key;
-                    int amount = Int32.Parse(nmAmount.Value.ToString());
-                    int IDBill = Convert.ToInt32(dtgvBill.Tag);
-                    AddFood(IDBill, IDFood, amount);
-                    gridView1.AddNewRow();
-                    (dtgvBill.MainView as DevExpress.XtraGrid.Views.Grid.GridView).AddNewRow();
-                    int rowHandle = gridView1.GetRowHandle(gridView1.DataRowCount);
-                    Item food = GetFoodByIDFood(IDFood);
-                  //  if (gridView1.IsNewItemRow(rowHandle))
+                    int amount = (int)nmAmount.Value;
+                    if (amount == 0)
                     {
-                        MessageBox.Show(GetNameFoodByIDFood(IDFood) + "\n" + nmAmount.Value + "\n" + food.Price+"\n"+ rowHandle);
-                        gridView1.SetRowCellValue(rowHandle, gridView1.Columns["Tên món"], GetNameFoodByIDFood(IDFood));
-                        gridView1.SetRowCellValue(rowHandle, gridView1.Columns["Số lượng"], nmAmount.Value);
-                        gridView1.SetRowCellValue(rowHandle, gridView1.Columns["Đơn giá"], food.Price);
-                        //(dtgvBill.MainView as DevExpress.XtraGrid.Views.Grid.GridView).SetRowCellValue(rowHandle, gridView1.Columns["Thành tiền"], (food.Price * nmAmount.Value));
-                        gridView1.SetRowCellValue(rowHandle, gridView1.Columns["Thành tiền"], (food.Price * nmAmount.Value));
-
+                        MessageBox.Show("Vui lòng nhập số lượng khác 0");
+                    }
+                    else
+                    {
+                        int IDTable = Convert.ToInt32(dtgvBill.Tag);
+                        int IDBill = GetIDBillByIDTable(IDTable);
+                        if (IDBill == 0)
+                        {
+                            AddBill(IDTable);
+                            IDBill = GetIDBillByIDTable(IDTable);
+                            
+                        }
+                        int IDFood = (int)(cbbFood.SelectedItem as CbbItem).Key;
+                        Item food = GetFoodByIDFood(IDFood);
+                        if (AddFood(IDBill, IDFood, amount))
+                        {
+                            gridView1.AddNewRow();
+                            gridView1.SetRowCellValue(gridView1.FocusedRowHandle, gridView1.Columns[0], food.Name);
+                            gridView1.SetRowCellValue(gridView1.FocusedRowHandle, gridView1.Columns[1], amount);
+                            gridView1.SetRowCellValue(gridView1.FocusedRowHandle, gridView1.Columns[2], food.Price);
+                            gridView1.SetRowCellValue(gridView1.FocusedRowHandle, gridView1.Columns[3], food.Price * amount);
+                            //MessageBox.Show("Thêm món thành công");
+                        }
+                        else
+                        {
+                            MessageBox.Show("Thêm món không thành công");
+                        }
                     }
                 }
 
             }
-
-
         }
+
+        private void AddBill(int iDTable)
+        {
+            using (SE_08 db = new SE_08())
+            {
+               // MessageBox.Show(iDTable + "\n" + employee.Id);
+                db.Bills.Add(new DTO.Bill { Id_Table = iDTable, Id_Employee = employee.Id,Date_Order=DateTime.Now, Date_Pay = DateTime.Now });
+                db.SaveChanges();
+            }
+        }
+
         private void btn_Click(object sender, EventArgs e)
         {
+
             int idTable = (int)(sender as Button).Tag;
             dtgvBill.Tag = idTable;
+            // int IDBill = GetIDBillByIDTable(Convert.ToInt32(dtgvBill.Tag));
+            // MessageBox.Show("IDBill: " + IDBill);
+            //  MessageBox.Show(idTable.ToString());
             showBill(idTable);
         }
         private List<BillInfo> GetListBillInfoByIDTable(int IDTable)
@@ -218,24 +238,48 @@ namespace DXApplication1.GUI.TabSale
             }
             return listBillInfo;
         }
+        private void LoadColumnBill()
+        {
+            DataTable dt = new DataTable();
+            dt.Columns.Add("Tên món", Type.GetType("System.String"));
+            dt.Columns.Add("Số lượng", Type.GetType("System.Int32"));
+            dt.Columns.Add("Đơn giá", Type.GetType("System.Int32"));
+            dt.Columns.Add("Tổng tiền", Type.GetType("System.Int32"));
 
+            DataRow dr = dt.NewRow();
+            dtgvBill.DataSource = dt;
+
+        }
         private void showBill(int IDTable)
         {
-            //dtgvBill.ItemClear();
-            List<DTO.BillInfo> listInfo = GetListBillInfoByIDTable(IDTable);
-            // int totalPrice = 0;
-            foreach (BillInfo bi in listInfo)
+            //dtgvBill.DataSource = null;
+            //gridView1.DataSource = null;
+            // MessageBox.Show(gridView1.RowCount + "");
+            //for (int i = 0; i <10; i++)
+            //{
+            //    gridView1.DeleteRow(i);
+            LoadColumnBill();
+
+            List<BillInfo> listBillInfo = new List<BillInfo>();
+            using (SE_08 db = new SE_08())
             {
-                Item food = GetFoodByIDFood(bi.Id_Item);
-                ListViewItem lsvItem = new ListViewItem(food.Name);
-                lsvItem.SubItems.Add(food.Price.ToString());
-                lsvItem.SubItems.Add(bi.Amount.ToString());
-                //lsvItem.SubItems.Add(item.TotalPrice.ToString());
-                //dtgvBill.Items.Add(lsvItem);
-                //totalPrice += item.TotalPrice;
+                int IDBill = GetIDBillByIDTable(IDTable);
+                listBillInfo = db.BillInfos.Where(p => p.Id_Bill == IDBill && p.Bill.Id_Table == IDTable && p.Bill.Status == false).Select(p => p).ToList();
+                foreach (BillInfo item in listBillInfo)
+                {
+
+                    int IDFood = item.Id_Item;
+                    Item food = GetFoodByIDFood(IDFood);
+                    gridView1.AddNewRow();
+                    gridView1.SetRowCellValue(gridView1.FocusedRowHandle, gridView1.Columns[0], food.Name);
+                    gridView1.SetRowCellValue(gridView1.FocusedRowHandle, gridView1.Columns[1], item.Amount);
+                    gridView1.SetRowCellValue(gridView1.FocusedRowHandle, gridView1.Columns[2], food.Price);
+                    gridView1.SetRowCellValue(gridView1.FocusedRowHandle, gridView1.Columns[3], food.Price * item.Amount);
+                    //MessageBox.Show(food.Name+"\n"+item.Amount+"\n"+food.Price);
+                }
+
             }
-            //CultureInfo culture = new CultureInfo("vi-VN");
-            //txtTotalPrice.Text = totalPrice.ToString("c", culture);
+
         }
         private String GetNameFoodByIDFood(int IDFood)
         {
@@ -259,12 +303,23 @@ namespace DXApplication1.GUI.TabSale
                 return (DTO.Item)db.Items.Where(p => p.Id == IDFood).Select(p => p).FirstOrDefault();
             }
         }
-        private void AddFood(int IDBill, int IDFood, int amount)
+        private bool AddFood(int IDBill, int IDFood, int amount)
         {
-            using (SE_08 db = new SE_08())
+            try
             {
-                db.BillInfos.Add(new BillInfo { Id_Bill = IDBill, Id_Item = IDFood, Amount = amount });
-                db.SaveChanges();
+                using (SE_08 db = new SE_08())
+                {
+                    MessageBox.Show(IDBill + "\n" + IDFood + "\n" + amount);
+                    db.BillInfos.Add(new BillInfo { Id_Bill = IDBill, Id_Item = IDFood, Amount = amount });
+                    return db.SaveChanges() > 0;
+                    //db.SubmitChanges();
+                }
+            }
+            catch (Exception e)
+            {
+                MessageBox.Show(e.Message);
+                MessageBox.Show("Có lỗi trong quá trình thêm món");
+                return false;
             }
         }
     }
