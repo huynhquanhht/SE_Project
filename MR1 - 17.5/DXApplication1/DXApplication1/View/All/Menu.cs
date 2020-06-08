@@ -68,7 +68,7 @@ namespace DXApplication1
             ChangeColorAllButton();
             Mark = "btn_Sale";
             btn_Sale.Appearance.BackColor = SystemColors.MenuHighlight;
-            openChildForm(new XtraForm1());
+            openChildForm(new fSale());
         }
 
         private void btn_Statistical_Click(object sender, EventArgs e)
