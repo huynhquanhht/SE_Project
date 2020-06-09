@@ -15,7 +15,7 @@ namespace DXApplication1.GUI.TabSale
 
     public partial class fSale : DevExpress.XtraEditors.XtraForm
     {
-        private Employee employee = new Employee() { Id=3,Id_Account=1};
+        private Employee employee = new Employee() { Id = 3, Id_Account = 1 };
         public fSale()
         {
             InitializeComponent();
@@ -180,9 +180,16 @@ namespace DXApplication1.GUI.TabSale
                         int IDBill = GetIDBillByIDTable(IDTable);
                         if (IDBill == 0)
                         {
-                            AddBill(IDTable);
-                            IDBill = GetIDBillByIDTable(IDTable);
-                            
+                            if (AddBill(IDTable))
+                            {
+                                IDBill = GetIDBillByIDTable(IDTable);
+                                // MessageBox.Show("Tạo mới hoá đơn thành công");
+                            }
+                            else
+                            {
+                                MessageBox.Show("Tạo mới hoá đơn không thành công");
+                            }
+
                         }
                         int IDFood = (int)(cbbFood.SelectedItem as CbbItem).Key;
                         Item food = GetFoodByIDFood(IDFood);
@@ -194,6 +201,7 @@ namespace DXApplication1.GUI.TabSale
                             gridView1.SetRowCellValue(gridView1.FocusedRowHandle, gridView1.Columns[2], food.Price);
                             gridView1.SetRowCellValue(gridView1.FocusedRowHandle, gridView1.Columns[3], food.Price * amount);
                             //MessageBox.Show("Thêm món thành công");
+                            LoadTotalPrice(IDTable);
                         }
                         else
                         {
@@ -205,25 +213,39 @@ namespace DXApplication1.GUI.TabSale
             }
         }
 
-        private void AddBill(int iDTable)
+        private bool AddBill(int iDTable)
         {
-            using (SE_08 db = new SE_08())
+            try
             {
-               // MessageBox.Show(iDTable + "\n" + employee.Id);
-                db.Bills.Add(new DTO.Bill { Id_Table = iDTable, Id_Employee = employee.Id,Date_Order=DateTime.Now, Date_Pay = DateTime.Now });
-                db.SaveChanges();
+                using (SE_08 db = new SE_08())
+                {
+                    // MessageBox.Show(iDTable + "\n" + employee.Id);
+                    db.Bills.Add(new DTO.Bill { Id_Table = iDTable, Id_Employee = employee.Id, Date_Order = DateTime.Now, Date_Pay = DateTime.Now });
+
+                    return db.SaveChanges() > 0;
+                }
             }
+            catch (Exception e)
+            {
+
+                MessageBox.Show(e.Message);
+                MessageBox.Show("Có lỗi khi tạo mới hoá đơn");
+                return false;
+
+            }
+
         }
 
         private void btn_Click(object sender, EventArgs e)
         {
 
-            int idTable = (int)(sender as Button).Tag;
-            dtgvBill.Tag = idTable;
+            int IdTable = (int)(sender as Button).Tag;
+            dtgvBill.Tag = IdTable;
             // int IDBill = GetIDBillByIDTable(Convert.ToInt32(dtgvBill.Tag));
             // MessageBox.Show("IDBill: " + IDBill);
             //  MessageBox.Show(idTable.ToString());
-            showBill(idTable);
+            showBill(IdTable);
+            LoadTotalPrice(IdTable);
         }
         private List<BillInfo> GetListBillInfoByIDTable(int IDTable)
         {
@@ -281,6 +303,14 @@ namespace DXApplication1.GUI.TabSale
             }
 
         }
+
+        private int GetIDFoodByNameFood(String NameFood)
+        {
+            using (SE_08 db = new SE_08())
+            {
+                return db.Items.Where(p => p.Name == NameFood).Select(p => p.Id).FirstOrDefault();
+            }
+        }
         private String GetNameFoodByIDFood(int IDFood)
         {
             using (SE_08 db = new SE_08())
@@ -309,7 +339,7 @@ namespace DXApplication1.GUI.TabSale
             {
                 using (SE_08 db = new SE_08())
                 {
-                    MessageBox.Show(IDBill + "\n" + IDFood + "\n" + amount);
+                    //  MessageBox.Show(IDBill + "\n" + IDFood + "\n" + amount);
                     db.BillInfos.Add(new BillInfo { Id_Bill = IDBill, Id_Item = IDFood, Amount = amount });
                     return db.SaveChanges() > 0;
                     //db.SubmitChanges();
@@ -320,6 +350,175 @@ namespace DXApplication1.GUI.TabSale
                 MessageBox.Show(e.Message);
                 MessageBox.Show("Có lỗi trong quá trình thêm món");
                 return false;
+            }
+        }
+
+        private void btnDell_Click(object sender, EventArgs e)
+        {
+            int[] selectedRowHandles = gridView1.GetSelectedRows();
+            if (RemoveFood(selectedRowHandles))
+            {
+                foreach (int row in selectedRowHandles)
+                {
+                    gridView1.DeleteRow(row);
+                    lbTotalPrice.Text = GetTotalPrice((int)dtgvBill.Tag).ToString();
+                }
+                RemoveBillNotExistItem((int)dtgvBill.Tag);
+
+
+
+            }
+            else
+            {
+                MessageBox.Show("Xoá món không thành công");
+            }
+
+        }
+
+        private bool RemoveFood(int[] selectedRowHandles)
+        {
+            try
+            {
+                using (SE_08 db = new SE_08())
+                {
+                    int IDTable = (int)(dtgvBill.Tag);
+                    int IDBill = GetIDBillByIDTable(IDTable);
+                    foreach (int row in selectedRowHandles)
+                    {
+                        String foodName = (String)gridView1.GetRowCellValue(row, "Tên món");
+                        var x = db.BillInfos.Where(p => p.Id_Bill == IDBill && p.Item.Name == foodName).Select(p => p).FirstOrDefault();
+                        db.BillInfos.Remove(x);
+                    }
+                    return db.SaveChanges() > 0;
+                }
+            }
+            catch (Exception e)
+            {
+                MessageBox.Show(e.Message);
+                MessageBox.Show("Có lỗi xảy ra khi xoá món từ hoá đơn");
+                return false;
+            }
+        }
+
+        public bool RemoveBillNotExistItem(int IDTable)
+        {
+            try
+            {
+                int IDBill = GetIDBillByIDTable(IDTable);
+                using (SE_08 db = new SE_08())
+                {
+                    //MessageBox.Show("Count: " + db.BillInfos.Where(p => p.Id_Bill == IDBill).Count().ToString());
+                    if (db.BillInfos.Where(p => p.Id_Bill == IDBill).Count() <= 0)
+                    {
+                        var y = db.Bills.Where(p => p.Id == IDBill).Select(p => p).FirstOrDefault();
+                        db.Bills.Remove(y);
+                    }
+                    return db.SaveChanges() > 0;
+                }
+            }
+            catch (Exception e)
+            {
+                MessageBox.Show(e.Message);
+                MessageBox.Show("Có lỗi xảy ra khi xoá hoá đơn");
+                return false;
+            }
+        }
+
+        public bool RemoveBill(int IDTable)
+        {
+            try
+            {
+                int IDBill = GetIDBillByIDTable(IDTable);
+                using (SE_08 db = new SE_08())
+                {
+                    //MessageBox.Show("Count: " + db.BillInfos.Where(p => p.Id_Bill == IDBill).Count().ToString());
+                    var y = db.Bills.Where(p => p.Id == IDBill).Select(p => p).FirstOrDefault();
+                    db.Bills.Remove(y);
+                    return db.SaveChanges() > 0;
+                }
+            }
+            catch (Exception e)
+            {
+                MessageBox.Show(e.Message);
+                MessageBox.Show("Có lỗi xảy ra khi huỷ hoá đơn");
+                return false;
+            }
+        }
+
+        private void btnCancle_Click(object sender, EventArgs e)
+        {
+            if (RemoveBill((int)dtgvBill.Tag))
+            {
+                LoadColumnBill();
+                lbTotalPrice.Text = "0";
+                //MessageBox.Show("Huỷ hoá đơn thành công");
+            }
+            else
+            {
+                MessageBox.Show("Huỷ hoá đơn không thành công");
+            }
+
+
+        }
+
+        private void btnPay_Click(object sender, EventArgs e)
+        {
+            if (MessageBox.Show("Bạn chắc chắn muốn thanh toán cho bàn " + GetNameTableByIDTable((int)dtgvBill.Tag), "Thông báo", MessageBoxButtons.YesNo) == DialogResult.Yes)
+            {
+                if (Pay((int)dtgvBill.Tag))
+                {
+                    LoadColumnBill();
+                    MessageBox.Show("Thanh toán thành công");
+                }
+                else
+                {
+                    MessageBox.Show("Thanh toán không thành công");
+                }
+            }
+        }
+
+        private bool Pay(int IDTable)
+        {
+            try
+            {
+                int IDBill = GetIDBillByIDTable(IDTable);
+                using (SE_08 db = new SE_08())
+                {
+                    var q = db.Bills.Where(p => p.Id == IDBill && p.Status == false).Select(p=>p).FirstOrDefault();
+                    q.Status = true;
+                    return db.SaveChanges() > 0;
+                }
+            }
+            catch (Exception e)
+            {
+                MessageBox.Show(e.Message);
+                MessageBox.Show("Xảy ra lỗi khi thanh toán");
+                return false;
+            }
+        }
+        private int GetTotalPrice(int IDTable)
+        {
+            int IDBill = GetIDBillByIDTable(IDTable);
+            if (IDBill != 0)
+            {
+                using (SE_08 db = new SE_08())
+                {
+                    return db.BillInfos.Where(p => p.Id_Bill == IDBill && p.Bill.Status == false).Sum(p => p.Amount * p.Item.Price);
+                }
+            }
+            return 0;
+
+        }
+
+        private void LoadTotalPrice(int IDTable)
+        {
+            lbTotalPrice.Text = GetTotalPrice(IDTable).ToString();
+        }
+        private String GetNameTableByIDTable(int IDTable)
+        {
+            using (SE_08 db = new SE_08())
+            {
+                return db.Tables.Where(p => p.Id == IDTable).Select(p => p.Name).FirstOrDefault();
             }
         }
     }

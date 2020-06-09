@@ -35,17 +35,15 @@
             this.btnSave = new DevExpress.XtraEditors.SimpleButton();
             this.simpleButton21 = new DevExpress.XtraEditors.SimpleButton();
             this.simpleButton4 = new DevExpress.XtraEditors.SimpleButton();
-            this.spinEdit2 = new DevExpress.XtraEditors.SpinEdit();
-            this.simpleButton3 = new DevExpress.XtraEditors.SimpleButton();
+            this.btnPay = new DevExpress.XtraEditors.SimpleButton();
             this.labelControl3 = new DevExpress.XtraEditors.LabelControl();
             this.panelControl1 = new DevExpress.XtraEditors.PanelControl();
             this.pnlTable = new System.Windows.Forms.FlowLayoutPanel();
             this.panelControl5 = new DevExpress.XtraEditors.PanelControl();
             this.labelControl9 = new DevExpress.XtraEditors.LabelControl();
-            this.textEdit1 = new DevExpress.XtraEditors.TextEdit();
+            this.lbTotalPrice = new DevExpress.XtraEditors.TextEdit();
             this.labelControl4 = new DevExpress.XtraEditors.LabelControl();
             this.btnCancle = new DevExpress.XtraEditors.SimpleButton();
-            this.labelControl5 = new DevExpress.XtraEditors.LabelControl();
             this.btnDell = new DevExpress.XtraEditors.SimpleButton();
             this.labelControl2 = new DevExpress.XtraEditors.LabelControl();
             this.nmAmount = new DevExpress.XtraEditors.SpinEdit();
@@ -62,12 +60,11 @@
             this.gridView1 = new DevExpress.XtraGrid.Views.Grid.GridView();
             ((System.ComponentModel.ISupportInitialize)(this.panelChildForm)).BeginInit();
             this.panelChildForm.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.spinEdit2.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.panelControl1)).BeginInit();
             this.panelControl1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.panelControl5)).BeginInit();
             this.panelControl5.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.textEdit1.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lbTotalPrice.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.nmAmount.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.panelControl2)).BeginInit();
             this.panelControl2.SuspendLayout();
@@ -89,14 +86,12 @@
             this.panelChildForm.Controls.Add(this.btnSave);
             this.panelChildForm.Controls.Add(this.simpleButton21);
             this.panelChildForm.Controls.Add(this.simpleButton4);
-            this.panelChildForm.Controls.Add(this.spinEdit2);
-            this.panelChildForm.Controls.Add(this.simpleButton3);
+            this.panelChildForm.Controls.Add(this.btnPay);
             this.panelChildForm.Controls.Add(this.labelControl3);
             this.panelChildForm.Controls.Add(this.panelControl1);
-            this.panelChildForm.Controls.Add(this.textEdit1);
+            this.panelChildForm.Controls.Add(this.lbTotalPrice);
             this.panelChildForm.Controls.Add(this.labelControl4);
             this.panelChildForm.Controls.Add(this.btnCancle);
-            this.panelChildForm.Controls.Add(this.labelControl5);
             this.panelChildForm.Controls.Add(this.btnDell);
             this.panelChildForm.Controls.Add(this.labelControl2);
             this.panelChildForm.Controls.Add(this.nmAmount);
@@ -196,42 +191,28 @@
             this.simpleButton4.TabIndex = 39;
             this.simpleButton4.Text = "Chuyển bàn";
             // 
-            // spinEdit2
+            // btnPay
             // 
-            this.spinEdit2.EditValue = new decimal(new int[] {
-            0,
-            0,
-            0,
-            0});
-            this.spinEdit2.Location = new System.Drawing.Point(744, 460);
-            this.spinEdit2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.spinEdit2.Name = "spinEdit2";
-            this.spinEdit2.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
-            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
-            this.spinEdit2.Size = new System.Drawing.Size(96, 24);
-            this.spinEdit2.TabIndex = 43;
-            // 
-            // simpleButton3
-            // 
-            this.simpleButton3.Appearance.BackColor = System.Drawing.Color.DodgerBlue;
-            this.simpleButton3.Appearance.BorderColor = System.Drawing.Color.White;
-            this.simpleButton3.Appearance.Font = new System.Drawing.Font("Tahoma", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.simpleButton3.Appearance.ForeColor = System.Drawing.Color.White;
-            this.simpleButton3.Appearance.Options.UseBackColor = true;
-            this.simpleButton3.Appearance.Options.UseBorderColor = true;
-            this.simpleButton3.Appearance.Options.UseFont = true;
-            this.simpleButton3.Appearance.Options.UseForeColor = true;
-            this.simpleButton3.AppearancePressed.BackColor = System.Drawing.Color.Blue;
-            this.simpleButton3.AppearancePressed.Font = new System.Drawing.Font("Tahoma", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.simpleButton3.AppearancePressed.Options.UseBackColor = true;
-            this.simpleButton3.AppearancePressed.Options.UseFont = true;
-            this.simpleButton3.ImageOptions.ImageToTextAlignment = DevExpress.XtraEditors.ImageAlignToText.LeftCenter;
-            this.simpleButton3.Location = new System.Drawing.Point(744, 524);
-            this.simpleButton3.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.simpleButton3.Name = "simpleButton3";
-            this.simpleButton3.Size = new System.Drawing.Size(96, 42);
-            this.simpleButton3.TabIndex = 38;
-            this.simpleButton3.Text = "Thanh toán";
+            this.btnPay.Appearance.BackColor = System.Drawing.Color.DodgerBlue;
+            this.btnPay.Appearance.BorderColor = System.Drawing.Color.White;
+            this.btnPay.Appearance.Font = new System.Drawing.Font("Tahoma", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnPay.Appearance.ForeColor = System.Drawing.Color.White;
+            this.btnPay.Appearance.Options.UseBackColor = true;
+            this.btnPay.Appearance.Options.UseBorderColor = true;
+            this.btnPay.Appearance.Options.UseFont = true;
+            this.btnPay.Appearance.Options.UseForeColor = true;
+            this.btnPay.AppearancePressed.BackColor = System.Drawing.Color.Blue;
+            this.btnPay.AppearancePressed.Font = new System.Drawing.Font("Tahoma", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnPay.AppearancePressed.Options.UseBackColor = true;
+            this.btnPay.AppearancePressed.Options.UseFont = true;
+            this.btnPay.ImageOptions.ImageToTextAlignment = DevExpress.XtraEditors.ImageAlignToText.LeftCenter;
+            this.btnPay.Location = new System.Drawing.Point(744, 524);
+            this.btnPay.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.btnPay.Name = "btnPay";
+            this.btnPay.Size = new System.Drawing.Size(96, 42);
+            this.btnPay.TabIndex = 38;
+            this.btnPay.Text = "Thanh toán";
+            this.btnPay.Click += new System.EventHandler(this.btnPay_Click);
             // 
             // labelControl3
             // 
@@ -286,13 +267,13 @@
             this.labelControl9.TabIndex = 0;
             this.labelControl9.Text = "BÀN ĂN";
             // 
-            // textEdit1
+            // lbTotalPrice
             // 
-            this.textEdit1.Location = new System.Drawing.Point(744, 492);
-            this.textEdit1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.textEdit1.Name = "textEdit1";
-            this.textEdit1.Size = new System.Drawing.Size(96, 22);
-            this.textEdit1.TabIndex = 41;
+            this.lbTotalPrice.Location = new System.Drawing.Point(744, 492);
+            this.lbTotalPrice.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.lbTotalPrice.Name = "lbTotalPrice";
+            this.lbTotalPrice.Size = new System.Drawing.Size(96, 22);
+            this.lbTotalPrice.TabIndex = 41;
             // 
             // labelControl4
             // 
@@ -327,17 +308,7 @@
             this.btnCancle.Size = new System.Drawing.Size(103, 42);
             this.btnCancle.TabIndex = 35;
             this.btnCancle.Text = "Hủy đặt";
-            // 
-            // labelControl5
-            // 
-            this.labelControl5.Appearance.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.labelControl5.Appearance.Options.UseFont = true;
-            this.labelControl5.Location = new System.Drawing.Point(658, 458);
-            this.labelControl5.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.labelControl5.Name = "labelControl5";
-            this.labelControl5.Size = new System.Drawing.Size(75, 21);
-            this.labelControl5.TabIndex = 42;
-            this.labelControl5.Text = "Giảm giá";
+            this.btnCancle.Click += new System.EventHandler(this.btnCancle_Click);
             // 
             // btnDell
             // 
@@ -361,6 +332,7 @@
             this.btnDell.Size = new System.Drawing.Size(103, 42);
             this.btnDell.TabIndex = 33;
             this.btnDell.Text = "Hủy món";
+            this.btnDell.Click += new System.EventHandler(this.btnDell_Click);
             // 
             // labelControl2
             // 
@@ -531,6 +503,7 @@
             this.gridView1.DetailHeight = 431;
             this.gridView1.GridControl = this.dtgvBill;
             this.gridView1.Name = "gridView1";
+            this.gridView1.OptionsBehavior.Editable = false;
             // 
             // fSale
             // 
@@ -546,13 +519,12 @@
             ((System.ComponentModel.ISupportInitialize)(this.panelChildForm)).EndInit();
             this.panelChildForm.ResumeLayout(false);
             this.panelChildForm.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.spinEdit2.Properties)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.panelControl1)).EndInit();
             this.panelControl1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.panelControl5)).EndInit();
             this.panelControl5.ResumeLayout(false);
             this.panelControl5.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.textEdit1.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lbTotalPrice.Properties)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.nmAmount.Properties)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.panelControl2)).EndInit();
             this.panelControl2.ResumeLayout(false);
@@ -582,13 +554,11 @@
         private DevExpress.XtraEditors.LabelControl labelControl1;
         private DevExpress.XtraEditors.SimpleButton btnAdd;
         private DevExpress.XtraEditors.SimpleButton simpleButton4;
-        private DevExpress.XtraEditors.SpinEdit spinEdit2;
-        private DevExpress.XtraEditors.SimpleButton simpleButton3;
+        private DevExpress.XtraEditors.SimpleButton btnPay;
         private DevExpress.XtraEditors.LabelControl labelControl3;
-        private DevExpress.XtraEditors.TextEdit textEdit1;
+        private DevExpress.XtraEditors.TextEdit lbTotalPrice;
         private DevExpress.XtraEditors.LabelControl labelControl4;
         private DevExpress.XtraEditors.SimpleButton btnCancle;
-        private DevExpress.XtraEditors.LabelControl labelControl5;
         private DevExpress.XtraEditors.SimpleButton btnDell;
         private DevExpress.XtraEditors.LabelControl labelControl2;
         private DevExpress.XtraEditors.SimpleButton simpleButton21;
