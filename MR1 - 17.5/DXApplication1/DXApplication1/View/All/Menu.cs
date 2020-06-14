@@ -23,7 +23,7 @@ namespace DXApplication1
             SetInterface();
         }
         private Form activeForm = null;
-        string Mark = "";
+ 
         private void openChildForm(Form childForm)
         {
             if (activeForm != null)
@@ -43,48 +43,43 @@ namespace DXApplication1
         }
         public void SetInterface()
         {
+ 
+            btn_System_Click(btn_System, new EventArgs());
+            
+        }
+        public void ResetColorButton()
+        {
             
         }
         public void ChangeColorAllButton()
         {
-            if(Mark == "btn_System")
                 btn_System.Appearance.BackColor = Color.DodgerBlue;
-            if(Mark == "btn_Sale")
                 btn_Sale.Appearance.BackColor = Color.DodgerBlue;
-            if(Mark == "btn_Statistical")
                 btn_Statistical.Appearance.BackColor = Color.DodgerBlue;
   
         }
         private void btn_System_Click(object sender, EventArgs e)
         {
             ChangeColorAllButton();
-            Mark = "btn_System";
-            btn_System.Appearance.BackColor = SystemColors.MenuHighlight;
+            btn_System.Appearance.BackColor = SystemColors.HotTrack;
             openChildForm(new TabSystem());
         }
 
         private void btn_Sale_Click(object sender, EventArgs e)
         {
             ChangeColorAllButton();
-            Mark = "btn_Sale";
-            btn_Sale.Appearance.BackColor = SystemColors.MenuHighlight;
+            btn_Sale.Appearance.BackColor = SystemColors.HotTrack;
             openChildForm(new XtraForm1());
         }
 
         private void btn_Statistical_Click(object sender, EventArgs e)
         {
             ChangeColorAllButton();
-            Mark = "btn_Statistical";
-            btn_Statistical.Appearance.BackColor = SystemColors.MenuHighlight;
+            btn_Statistical.Appearance.BackColor = SystemColors.HotTrack;
             openChildForm(new Sales());
         }
 
-        private void btn_Help_Click(object sender, EventArgs e)
-        {
-            ChangeColorAllButton();
-            Mark = "btn_Help";
-     
-        }
+
 
         private void panelChildForm_Paint(object sender, PaintEventArgs e)
         {

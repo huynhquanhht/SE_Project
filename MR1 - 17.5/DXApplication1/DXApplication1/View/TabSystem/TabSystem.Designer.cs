@@ -32,7 +32,7 @@
             this.panel1 = new System.Windows.Forms.Panel();
             this.panelChildForm = new DevExpress.XtraEditors.PanelControl();
             this.frm_TabSystem = new DevExpress.XtraEditors.PanelControl();
-            this.simpleButton1 = new DevExpress.XtraEditors.SimpleButton();
+            this.btn_Category = new DevExpress.XtraEditors.SimpleButton();
             this.btn_Account = new DevExpress.XtraEditors.SimpleButton();
             this.btn_Employee = new DevExpress.XtraEditors.SimpleButton();
             this.btn_Item = new DevExpress.XtraEditors.SimpleButton();
@@ -68,7 +68,7 @@
             this.frm_TabSystem.Appearance.Options.UseBackColor = true;
             this.frm_TabSystem.Appearance.Options.UseBorderColor = true;
             this.frm_TabSystem.BorderStyle = DevExpress.XtraEditors.Controls.BorderStyles.NoBorder;
-            this.frm_TabSystem.Controls.Add(this.simpleButton1);
+            this.frm_TabSystem.Controls.Add(this.btn_Category);
             this.frm_TabSystem.Controls.Add(this.btn_Account);
             this.frm_TabSystem.Controls.Add(this.btn_Employee);
             this.frm_TabSystem.Controls.Add(this.btn_Item);
@@ -80,22 +80,22 @@
             this.frm_TabSystem.Size = new System.Drawing.Size(736, 77);
             this.frm_TabSystem.TabIndex = 2;
             // 
-            // simpleButton1
+            // btn_Category
             // 
-            this.simpleButton1.Appearance.BackColor = System.Drawing.Color.DodgerBlue;
-            this.simpleButton1.Appearance.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.simpleButton1.Appearance.Options.UseBackColor = true;
-            this.simpleButton1.Appearance.Options.UseFont = true;
-            this.simpleButton1.AppearanceHovered.BackColor = System.Drawing.Color.White;
-            this.simpleButton1.AppearanceHovered.Options.UseBackColor = true;
-            this.simpleButton1.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("simpleButton1.ImageOptions.Image")));
-            this.simpleButton1.ImageOptions.ImageToTextAlignment = DevExpress.XtraEditors.ImageAlignToText.TopCenter;
-            this.simpleButton1.Location = new System.Drawing.Point(76, 1);
-            this.simpleButton1.Name = "simpleButton1";
-            this.simpleButton1.Size = new System.Drawing.Size(78, 75);
-            this.simpleButton1.TabIndex = 10;
-            this.simpleButton1.Text = "Loại món";
-            this.simpleButton1.Click += new System.EventHandler(this.simpleButton1_Click);
+            this.btn_Category.Appearance.BackColor = System.Drawing.Color.DodgerBlue;
+            this.btn_Category.Appearance.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn_Category.Appearance.Options.UseBackColor = true;
+            this.btn_Category.Appearance.Options.UseFont = true;
+            this.btn_Category.AppearanceHovered.BackColor = System.Drawing.Color.White;
+            this.btn_Category.AppearanceHovered.Options.UseBackColor = true;
+            this.btn_Category.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("simpleButton1.ImageOptions.Image")));
+            this.btn_Category.ImageOptions.ImageToTextAlignment = DevExpress.XtraEditors.ImageAlignToText.TopCenter;
+            this.btn_Category.Location = new System.Drawing.Point(76, 1);
+            this.btn_Category.Name = "btn_Category";
+            this.btn_Category.Size = new System.Drawing.Size(78, 75);
+            this.btn_Category.TabIndex = 10;
+            this.btn_Category.Text = "Loại món";
+            this.btn_Category.Click += new System.EventHandler(this.btn_Category_Click);
             // 
             // btn_Account
             // 
@@ -220,7 +220,7 @@
         private DevExpress.XtraEditors.SimpleButton btn_Employee;
         private DevExpress.XtraEditors.SimpleButton btn_Table;
         private DevExpress.XtraEditors.SimpleButton btn_Bill;
-        private DevExpress.XtraEditors.SimpleButton simpleButton1;
+        private DevExpress.XtraEditors.SimpleButton btn_Category;
         private DevExpress.XtraEditors.PanelControl panelChildForm;
 
     }

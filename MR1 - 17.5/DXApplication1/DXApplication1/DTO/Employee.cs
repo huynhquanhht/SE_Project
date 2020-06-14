@@ -27,6 +27,8 @@ namespace DXApplication1.DTO
         [Required]
         public string Address { get; set; }
         [Required]
+        public string Phone { get; set; }
+        [Required]
         public int Id_Account { get; set; }
         [Required]
         [DefaultValue("false")]

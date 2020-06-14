@@ -397,6 +397,7 @@ namespace DXApplication1.DAL
                 Name = "Nguyễn Văn A",
                 Birthday = Convert.ToDateTime("1998-02-05"),
                 Address = "Đà Nẵng",
+                Phone = "0905050001",
                 Id_Account = 1
             });
             context.Employees.Add(new Employee
@@ -405,6 +406,7 @@ namespace DXApplication1.DAL
                 Name = "Nguyễn Văn B",
                 Birthday = Convert.ToDateTime("2001-09-03"),
                 Address = "Quảng Nam",
+                Phone = "0905050002",
                 Id_Account = 2
             });
             context.Employees.Add(new Employee
@@ -413,6 +415,7 @@ namespace DXApplication1.DAL
                 Name = "Nguyễn Văn C",
                 Birthday = Convert.ToDateTime("2000-06-01"),
                 Address = "Huế",
+                Phone = "0905050003",
                 Id_Account = 3
             });
             #endregion

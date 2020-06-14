@@ -75,14 +75,14 @@
             // 
             // dateTimePicker1
             // 
-            this.dateTimePicker1.Location = new System.Drawing.Point(386, 45);
+            this.dateTimePicker1.Location = new System.Drawing.Point(338, 25);
             this.dateTimePicker1.Name = "dateTimePicker1";
             this.dateTimePicker1.Size = new System.Drawing.Size(200, 21);
             this.dateTimePicker1.TabIndex = 0;
             // 
             // comboBox1
             // 
-            this.comboBox1.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.comboBox1.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.comboBox1.ForeColor = System.Drawing.Color.DodgerBlue;
             this.comboBox1.FormattingEnabled = true;
             this.comboBox1.Items.AddRange(new object[] {
@@ -90,9 +90,9 @@
             "Thay đổi thông tin",
             "Đổi mật khẩu",
             "Thoát"});
-            this.comboBox1.Location = new System.Drawing.Point(581, 45);
+            this.comboBox1.Location = new System.Drawing.Point(579, 40);
             this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(155, 21);
+            this.comboBox1.Size = new System.Drawing.Size(155, 24);
             this.comboBox1.TabIndex = 3;
             this.comboBox1.Text = "Huỳnh Văn Quân";
             // 
@@ -204,6 +204,7 @@
             this.Controls.Add(this.panelControl3);
             this.Controls.Add(this.panelControl2);
             this.Name = "Menu";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Menu";
             ((System.ComponentModel.ISupportInitialize)(this.panelControl2)).EndInit();
             this.panelControl2.ResumeLayout(false);

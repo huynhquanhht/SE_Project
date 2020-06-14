@@ -627,7 +627,6 @@ C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplica
 C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
 C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\MR.csprojAssemblyReference.cache
 C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.All.ChangePass.resources
-C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.All.Login.resources
 C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.All.PersonalInfo.resources
 C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.TabSale.XtraForm1.resources
 C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.TabStatistic.Sales.resources
@@ -646,3 +645,6 @@ C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplica
 C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.frm_Table.resources
 C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.frm_Item.resources
 C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.Form1.resources
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.All.frm_Login.resources
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.View.All.FormMessageBox.resources
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.View.All.FormYesNoBox.resources
