@@ -22,9 +22,14 @@ namespace DXApplication1.GUI
             InitializeComponent();
             SetView();
         }
+        public void SetView()
+        {
+            txt_Id.Enabled = false;
+            grd_Category.DataSource = BUS_Category.Instance.Show_DAL();
+        }
         public void LoadBinding()
         {
-            if (BLL_Category.Instance.Show_BLL() != null)
+            if (BUS_Category.Instance.Show_DAL() != null)
             {
                 DeleteBinding();
                 txt_Id.DataBindings.Add(new Binding("Text", dgv_Category.DataSource, "Id"));
@@ -42,15 +47,10 @@ namespace DXApplication1.GUI
             txt_Name.ResetText();
             txt_Id.ResetText();
         }
-        public void SetView()
-        {
-            txt_Id.Enabled = false;
-            grd_Category.DataSource = BLL_Category.Instance.Show_BLL();
-        }
         private void btn_Add_Click(object sender, EventArgs e)
         {
             string name_Category = txt_Name.Text;
-            if (BLL_Category.Instance.Add_BLL(name_Category))
+            if (BUS_Category.Instance.Add_DAL(name_Category))
             {
                 SetView();
                 FormMessageBox form = new FormMessageBox("Thêm thành công!");
@@ -65,10 +65,10 @@ namespace DXApplication1.GUI
         private void btn_Search_Click(object sender, EventArgs e)
         {
             string str_Search = txt_Search.Text;
-            if (BLL_Category.Instance.Search_BLL(str_Search) != null)
+            if (BUS_Category.Instance.Search_DAL(str_Search) != null)
             {
                 DeleteBinding();
-                grd_Category.DataSource = BLL_Category.Instance.Search_BLL(str_Search);
+                grd_Category.DataSource = BUS_Category.Instance.Search_DAL(str_Search);
             }
             else
             {
@@ -91,7 +91,7 @@ namespace DXApplication1.GUI
                 formYesNoBox.ShowDialog();
                 if (formYesNoBox.GetValue() == 1)
                 {
-                    if (BLL_Category.Instance.Update_BLL(Convert.ToInt32(Id), name_update))
+                    if (BUS_Category.Instance.Update_DAL(Convert.ToInt32(Id), name_update))
                     {
                         DeleteBinding();
                         SetView();
@@ -131,14 +131,18 @@ namespace DXApplication1.GUI
                 formYesNoBox.ShowDialog();
                 if (formYesNoBox.GetValue() == 1)
                 {
-                    if (BLL_Category.Instance.Delete_BLL(list_Dell))
+                    if (BUS_Category.Instance.Delete_DAL(list_Dell))
                     {
                         FormMessageBox formMessageBox = new FormMessageBox("Xóa thành công!");
                         DeleteBinding();
                         formMessageBox.ShowDialog();
                         SetView();
-                 
-                        
+                    }
+                    else
+                    {
+                        FormMessageBox formMessageBox = new FormMessageBox("Xóa thất bại! Vui lòng kiểm tra lại!");
+                        formMessageBox.ShowDialog();
+
                     }
                 }
             }

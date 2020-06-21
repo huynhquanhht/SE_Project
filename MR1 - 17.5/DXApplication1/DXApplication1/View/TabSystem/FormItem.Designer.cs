@@ -57,12 +57,12 @@
             this.cbb_CategoryDetail = new System.Windows.Forms.ComboBox();
             this.labelControl3 = new DevExpress.XtraEditors.LabelControl();
             this.panelControl9 = new DevExpress.XtraEditors.PanelControl();
+            this.txt_Price = new System.Windows.Forms.TextBox();
             this.labelControl4 = new DevExpress.XtraEditors.LabelControl();
             this.lbl_ItemDetail = new DevExpress.XtraEditors.LabelControl();
             this.panelControl8 = new DevExpress.XtraEditors.PanelControl();
             this.cbb_Category = new System.Windows.Forms.ComboBox();
             this.lbl_Category = new DevExpress.XtraEditors.LabelControl();
-            this.txt_Price = new System.Windows.Forms.TextBox();
             ((System.ComponentModel.ISupportInitialize)(this.panelControl1)).BeginInit();
             this.panelControl1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.panelControl2)).BeginInit();
@@ -202,7 +202,7 @@
             this.panelControl10.Controls.Add(this.labelControl2);
             this.panelControl10.Location = new System.Drawing.Point(3, 77);
             this.panelControl10.Name = "panelControl10";
-            this.panelControl10.Size = new System.Drawing.Size(451, 34);
+            this.panelControl10.Size = new System.Drawing.Size(456, 34);
             this.panelControl10.TabIndex = 22;
             // 
             // labelControl2
@@ -225,7 +225,7 @@
             this.grd_Item.Location = new System.Drawing.Point(3, 78);
             this.grd_Item.MainView = this.dgv_Item;
             this.grd_Item.Name = "grd_Item";
-            this.grd_Item.Size = new System.Drawing.Size(451, 295);
+            this.grd_Item.Size = new System.Drawing.Size(456, 295);
             this.grd_Item.TabIndex = 21;
             this.grd_Item.UseEmbeddedNavigator = true;
             this.grd_Item.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
@@ -270,7 +270,7 @@
             this.grdcol_IdItem.UnboundType = DevExpress.Data.UnboundColumnType.Integer;
             this.grdcol_IdItem.Visible = true;
             this.grdcol_IdItem.VisibleIndex = 0;
-            this.grdcol_IdItem.Width = 54;
+            this.grdcol_IdItem.Width = 66;
             // 
             // grdcol_NameItem
             // 
@@ -291,7 +291,7 @@
             this.grdcol_NameItem.Name = "grdcol_NameItem";
             this.grdcol_NameItem.Visible = true;
             this.grdcol_NameItem.VisibleIndex = 1;
-            this.grdcol_NameItem.Width = 144;
+            this.grdcol_NameItem.Width = 168;
             // 
             // grdcol_Price
             // 
@@ -313,7 +313,7 @@
             this.grdcol_Price.UnboundType = DevExpress.Data.UnboundColumnType.Integer;
             this.grdcol_Price.Visible = true;
             this.grdcol_Price.VisibleIndex = 2;
-            this.grdcol_Price.Width = 82;
+            this.grdcol_Price.Width = 80;
             // 
             // grd_Category
             // 
@@ -334,7 +334,7 @@
             this.grd_Category.Name = "grd_Category";
             this.grd_Category.Visible = true;
             this.grd_Category.VisibleIndex = 3;
-            this.grd_Category.Width = 117;
+            this.grd_Category.Width = 121;
             // 
             // panelControl14
             // 
@@ -456,6 +456,15 @@
             this.panelControl9.Size = new System.Drawing.Size(255, 31);
             this.panelControl9.TabIndex = 3;
             // 
+            // txt_Price
+            // 
+            this.txt_Price.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txt_Price.Location = new System.Drawing.Point(76, 3);
+            this.txt_Price.Multiline = true;
+            this.txt_Price.Name = "txt_Price";
+            this.txt_Price.Size = new System.Drawing.Size(176, 24);
+            this.txt_Price.TabIndex = 8;
+            // 
             // labelControl4
             // 
             this.labelControl4.Appearance.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -501,18 +510,9 @@
             this.lbl_Category.Appearance.Options.UseFont = true;
             this.lbl_Category.Location = new System.Drawing.Point(6, 7);
             this.lbl_Category.Name = "lbl_Category";
-            this.lbl_Category.Size = new System.Drawing.Size(63, 16);
+            this.lbl_Category.Size = new System.Drawing.Size(57, 16);
             this.lbl_Category.TabIndex = 3;
-            this.lbl_Category.Text = "Danh mục";
-            // 
-            // txt_Price
-            // 
-            this.txt_Price.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txt_Price.Location = new System.Drawing.Point(76, 3);
-            this.txt_Price.Multiline = true;
-            this.txt_Price.Name = "txt_Price";
-            this.txt_Price.Size = new System.Drawing.Size(176, 24);
-            this.txt_Price.TabIndex = 8;
+            this.lbl_Category.Text = "Loại món";
             // 
             // frm_Item
             // 

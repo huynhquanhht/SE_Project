@@ -16,11 +16,10 @@ namespace DXApplication1
 {
     public partial class frm_Item : DevExpress.XtraEditors.XtraForm
     {
-
+    
         public frm_Item()
         {
             InitializeComponent();
-            SetCBBDetail();
             SetCBB();
             SetView();
 
@@ -29,12 +28,21 @@ namespace DXApplication1
         {
             txt_Id.Enabled = false;
             string category = cbb_Category.SelectedItem.ToString();
-            List<dynamic> list_Category = BLL_Item.Instance.GetCategory_BLL().ToList();
             foreach (CBBItem i in cbb_Category.Items)
             {
                 if (i.Text == category)
                 {
-                    grd_Item.DataSource = BLL_Item.Instance.Show_BLL(i.Value);
+                
+                    if (BUS_Item.Instance.Show_DAL(i.Value) != null)
+                    {
+                        grd_Item.DataSource = BUS_Item.Instance.Show_DAL(i.Value);
+                    }
+                    else
+                    {
+
+                        FormMessageBox form = new FormMessageBox("Tải dữ liệu món thất bại!");
+                        form.ShowDialog();
+                    }
                     break;
                 }
             }
@@ -46,32 +54,68 @@ namespace DXApplication1
                 cbb_Category.Items.Clear();
             }
             cbb_Category.Items.Add(new CBBItem { Value = 0, Text = "Tất cả" });
-            List<dynamic> list_Category = BLL_Item.Instance.GetCategory_BLL().ToList();
-            for (int i = 0; i < list_Category.Count; i++)
+            List<dynamic> list_Category = BUS_Item.Instance.GetCategory_DAL().ToList();
+            if (list_Category != null)
             {
-                cbb_Category.Items.Add(new CBBItem
+                for (int i = 0; i < list_Category.Count; i++)
                 {
-                    Value = list_Category[i].Id,
-                    Text = list_Category[i].Name
-                });
+                    cbb_Category.Items.Add(new CBBItem
+                    {
+                        Value = list_Category[i].Id,
+                        Text = list_Category[i].Name
+                    });
+                    cbb_CategoryDetail.Items.Add(new CBBItem
+                    {
+                        Value = list_Category[i].Id,
+                        Text = list_Category[i].Name
+                    });
+                }
+                cbb_Category.SelectedIndex = 0;
             }
-            cbb_Category.SelectedIndex = 0;
+            else
+            {
+                FormMessageBox form = new FormMessageBox("Lỗi! Tải dữ liệu loại món thất bại!");
+                form.ShowDialog();
+            }
         }
-        public void SetCBBDetail()
+        public void LoadBinding()
         {
-            if (cbb_CategoryDetail.Items != null)
+            string Name_Category = cbb_Category.SelectedItem.ToString();
+            int Id_Category = 0;
+            foreach (CBBItem i in cbb_Category.Items)
             {
-                cbb_CategoryDetail.Items.Clear();
-            }
-            List<dynamic> list_Category = BLL_Item.Instance.GetCategory_BLL().ToList();
-            for (int i = 0; i < list_Category.Count; i++)
-            {
-                cbb_CategoryDetail.Items.Add(new CBBItem
+                if (i.Text == Name_Category)
                 {
-                    Value = list_Category[i].Id,
-                    Text = list_Category[i].Name
-                });
+                    Id_Category = i.Value;
+                    break;
+                }
             }
+            if (BUS_Item.Instance.Show_DAL(Id_Category) != null)
+            {
+                DeleteBinding();
+                txt_Id.DataBindings.Add(new Binding("Text", dgv_Item.DataSource, "Id"));
+                txt_Name.DataBindings.Add(new Binding("Text", dgv_Item.DataSource, "Name"));
+                cbb_CategoryDetail.DataBindings.Add(new Binding("Text", dgv_Item.DataSource, "Name_Category"));
+                txt_Price.DataBindings.Add(new Binding("Text", dgv_Item.DataSource, "Price"));
+            }
+            else
+            {
+                FormMessageBox form = new FormMessageBox("Lỗi! Nạp dữ liệu thất bại!");
+                form.ShowDialog();
+                DeleteBinding();
+            }
+        }
+        public void DeleteBinding()
+        {
+            txt_Id.DataBindings.Clear();
+            txt_Name.DataBindings.Clear();
+            cbb_CategoryDetail.DataBindings.Clear();
+            txt_Price.DataBindings.Clear();
+
+            txt_Id.ResetText();
+            txt_Name.ResetText();
+            cbb_CategoryDetail.ResetText();
+            txt_Price.ResetText();
         }
         private void btn_Add_Click(object sender, EventArgs e)
         {
@@ -79,6 +123,7 @@ namespace DXApplication1
             string name_Category = "";
             int price_Item = 0;
             int Id_Category = 0;
+
             if (cbb_CategoryDetail.SelectedItem != null)
             {
                 name_Category = cbb_CategoryDetail.SelectedItem.ToString();
@@ -87,8 +132,6 @@ namespace DXApplication1
             {
                 price_Item = Convert.ToInt32(txt_Price.Text);
             }
-
-            List<dynamic> list_Category = BLL_Item.Instance.GetCategory_BLL().ToList();
             foreach (CBBItem i in cbb_Category.Items)
             {
                 if (i.Text == name_Category)
@@ -99,7 +142,7 @@ namespace DXApplication1
             }
             if (price_Item != 0)
             {
-                if (BLL_Item.Instance.Add_BLL(name_Item, Id_Category, price_Item))
+                if (BUS_Item.Instance.Add_DAL(name_Item, Id_Category, price_Item))
                 {
                     SetView();
                     FormMessageBox form = new FormMessageBox("Thêm thành công!");
@@ -123,7 +166,6 @@ namespace DXApplication1
             string Name_Category = cbb_Category.SelectedItem.ToString();
             string str_Search = txt_Search.Text.Trim();
             int Id_Category = 0;
-            List<dynamic> list_Category = BLL_Item.Instance.GetCategory_BLL().ToList();
             foreach (CBBItem i in cbb_Category.Items)
             {
                 if (i.Text == Name_Category)
@@ -132,10 +174,10 @@ namespace DXApplication1
                     break;
                 }
             }
-            if (BLL_Item.Instance.Search_BLL(Id_Category, str_Search) != null)
+            if (BUS_Item.Instance.Search_DAL(Id_Category, str_Search) != null)
             {
                 DeleteBinding();
-                grd_Item.DataSource = BLL_Item.Instance.Search_BLL(Id_Category, str_Search);
+                grd_Item.DataSource = BUS_Item.Instance.Search_DAL(Id_Category, str_Search);
             }
             else
             {
@@ -147,80 +189,6 @@ namespace DXApplication1
         private void dgv_Item_RowClick(object sender, DevExpress.XtraGrid.Views.Grid.RowClickEventArgs e)
         {
             LoadBinding();
-        }
-        public void LoadBinding()
-        {
-            string Name_Category = cbb_Category.SelectedItem.ToString();
-            int Id_Category = 0;
-            List<dynamic> list_Category = BLL_Item.Instance.GetCategory_BLL().ToList();
-            foreach (CBBItem i in cbb_Category.Items)
-            {
-                if (i.Text == Name_Category)
-                {
-                    Id_Category = i.Value;
-                    break;
-                }
-            }
-            if (BLL_Item.Instance.Show_BLL(Id_Category) != null)
-            {
-                DeleteBinding();
-                txt_Id.DataBindings.Add(new Binding("Text", dgv_Item.DataSource, "Id"));
-                txt_Name.DataBindings.Add(new Binding("Text", dgv_Item.DataSource, "Name"));
-                cbb_CategoryDetail.DataBindings.Add(new Binding("Text", dgv_Item.DataSource, "Name_Category"));
-                txt_Price.DataBindings.Add(new Binding("Text", dgv_Item.DataSource, "Price"));
-            }
-            else
-            {
-                DeleteBinding();
-            }
-        }
-        public void DeleteBinding()
-        {
-            txt_Id.DataBindings.Clear();
-            txt_Name.DataBindings.Clear();
-            cbb_CategoryDetail.DataBindings.Clear();
-            txt_Price.DataBindings.Clear();
-
-            txt_Id.ResetText();
-            txt_Name.ResetText();
-            cbb_CategoryDetail.ResetText();
-            txt_Price.ResetText();
-        }
-        private void btn_Delete_Click(object sender, EventArgs e)
-        {
-            List<int> list_Dell = new List<int>();
-
-            int[] selectedRows = dgv_Item.GetSelectedRows();
-            if (txt_Id.Text != "")
-            {
-                foreach (int rowHandle in selectedRows)
-                {
-                    if (rowHandle >= 0)
-                    {
-                        object cellValue = dgv_Item.GetRowCellValue(rowHandle, grdcol_IdItem);
-                        list_Dell.Add((int)cellValue);
-                    }
-                }
-                FormYesNoBox formYesNoBox = new FormYesNoBox("Bạn chắc chắn muốn xóa?");
-                formYesNoBox.ShowDialog();
-                if (formYesNoBox.GetValue() == 1)
-                {
-                    if (BLL_Item.Instance.Delete_BLL(list_Dell))
-                    {
-                        FormMessageBox formMessageBox = new FormMessageBox("Xóa thành công!");
-                        DeleteBinding();
-                        SetView();
-                        formMessageBox.ShowDialog();
-
-                    }
-                }
-            }
-            else
-            {
-                FormMessageBox form = new FormMessageBox("Vui lòng chọn món muốn xóa!");
-                form.ShowDialog();
-            }
-
         }
         private void btn_Update_Click(object sender, EventArgs e)
         {
@@ -239,8 +207,6 @@ namespace DXApplication1
             {
                 price_Update = Convert.ToInt32(price_Item);
             }
-
-            List<dynamic> list_Category = BLL_Item.Instance.GetCategory_BLL().ToList();
             foreach (CBBItem i in cbb_Category.Items)
             {
                 if (i.Text == name_Category)
@@ -249,16 +215,15 @@ namespace DXApplication1
                     break;
                 }
             }
-
             if (Id != "")
-            { 
+            {
                 FormYesNoBox formYesNoBox = new FormYesNoBox("Bạn chắc chắn muốn cập nhật?");
                 formYesNoBox.ShowDialog();
                 if (formYesNoBox.GetValue() == 1)
                 {
                     if (price_Update != 0)
                     {
-                        if (BLL_Item.Instance.Update_BLL(Convert.ToInt32(Id), name_Update, Id_Category_Update, price_Update))
+                        if (BUS_Item.Instance.Update_DAL(Convert.ToInt32(Id), name_Update, Id_Category_Update, price_Update))
                         {
                             DeleteBinding();
                             SetView();
@@ -285,5 +250,48 @@ namespace DXApplication1
             }
 
         }
+        private void btn_Delete_Click(object sender, EventArgs e)
+        {
+            List<int> list_Dell = new List<int>();
+
+            int[] selectedRows = dgv_Item.GetSelectedRows();
+            if (txt_Id.Text != "")
+            {
+                foreach (int rowHandle in selectedRows)
+                {
+                    if (rowHandle >= 0)
+                    {
+                        object cellValue = dgv_Item.GetRowCellValue(rowHandle, grdcol_IdItem);
+                        list_Dell.Add((int)cellValue);
+                    }
+                }
+                FormYesNoBox formYesNoBox = new FormYesNoBox("Bạn chắc chắn muốn xóa?");
+                formYesNoBox.ShowDialog();
+                if (formYesNoBox.GetValue() == 1)
+                {
+                    if (BUS_Item.Instance.Delete_DAL(list_Dell))
+                    {
+                        FormMessageBox formMessageBox = new FormMessageBox("Xóa thành công!");
+                        DeleteBinding();
+                        SetView();
+                        formMessageBox.ShowDialog();
+
+                    }
+                    else
+                    {
+                        FormMessageBox formMessageBox = new FormMessageBox("Xóa thất bại! Vui lòng kiểm tra lại dữ liệu!");
+                        formMessageBox.ShowDialog();
+                    }
+
+                }
+            }
+            else
+            {
+                FormMessageBox form = new FormMessageBox("Vui lòng chọn món muốn xóa!");
+                form.ShowDialog();
+            }
+
+        }
+        
     }
 }

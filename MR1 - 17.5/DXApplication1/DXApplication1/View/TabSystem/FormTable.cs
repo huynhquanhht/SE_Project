@@ -22,7 +22,7 @@ namespace DXApplication1.GUI
         }
         public void LoadBinding()
         {
-            if (BLL_Table.Instance.Show_BLL() != null)
+            if (BUS_Table.Instance.Show_DAL() != null)
             {
                 DeleteBinding();
                 txt_Id.DataBindings.Add(new Binding("Text", dgv_Table.DataSource, "Id"));
@@ -31,6 +31,8 @@ namespace DXApplication1.GUI
             }
             else
             {
+                FormMessageBox form = new FormMessageBox("Lỗi! Nạp dữ liệu thất bại!");
+                form.ShowDialog();
                 DeleteBinding();
             }
         }
@@ -46,13 +48,21 @@ namespace DXApplication1.GUI
         public void SetView()
         {
             txt_Id.Enabled = false;
-            grd_Table.DataSource = BLL_Table.Instance.Show_BLL();
+            if (BUS_Table.Instance.Show_DAL() != null)
+            {
+                grd_Table.DataSource = BUS_Table.Instance.Show_DAL();
+            }
+            else
+            {
+                FormMessageBox form = new FormMessageBox("Lỗi! Tải dữ liệu bàn ăn thất bại!");
+                form.ShowDialog();
+            }
         }
         private void btn_Add_Click(object sender, EventArgs e)
         {
             string name_Table = txt_Name.Text;
             bool status = ckb_Status.Checked == true ? true : false;
-            if (BLL_Table.Instance.Add_BLL(name_Table, status))
+            if (BUS_Table.Instance.Add_DAL(name_Table, status))
             {
                 SetView();
                 FormMessageBox form = new FormMessageBox("Thêm thành công!");
@@ -67,10 +77,10 @@ namespace DXApplication1.GUI
         private void btn_Search_Click(object sender, EventArgs e)
         {
             string str_Search = txt_Search.Text;
-            if (BLL_Table.Instance.Search_BLL(str_Search) != null)
+            if (BUS_Table.Instance.Search_DAL(str_Search) != null)
             {
                 DeleteBinding();
-                grd_Table.DataSource = BLL_Table.Instance.Search_BLL(str_Search);
+                grd_Table.DataSource = BUS_Table.Instance.Search_DAL(str_Search);
 
             }
             else
@@ -95,7 +105,7 @@ namespace DXApplication1.GUI
                 formYesNoBox.ShowDialog();
                 if (formYesNoBox.GetValue() == 1)
                 {
-                    if (BLL_Table.Instance.Update_BLL(Convert.ToInt32(Id), name_update, status_update))
+                    if (BUS_Table.Instance.Update_DAL(Convert.ToInt32(Id), name_update, status_update))
                     {
                         DeleteBinding();
                         SetView();
@@ -134,7 +144,7 @@ namespace DXApplication1.GUI
                 formYesNoBox.ShowDialog();
                 if (formYesNoBox.GetValue() == 1)
                 {
-                    if (BLL_Table.Instance.Delete_BLL(list_Dell))
+                    if (BUS_Table.Instance.Delete_DAL(list_Dell))
                     {
                         FormMessageBox form = new FormMessageBox("Xóa thành công!");
                         form.ShowDialog();

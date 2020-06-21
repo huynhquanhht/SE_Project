@@ -373,6 +373,8 @@ namespace DXApplication1.DAL
                 Id = 1,
                 Username = "Admin",
                 Password = "1",
+                Id_Employee = 1,
+                
                 Id_Type = 1
             });
             context.Accounts.Add(new Account
@@ -380,6 +382,7 @@ namespace DXApplication1.DAL
                 Id = 2,
                 Username = "Mods",
                 Password = "2",
+                Id_Employee = 2,
                 Id_Type = 2
             });
             context.Accounts.Add(new Account
@@ -387,6 +390,7 @@ namespace DXApplication1.DAL
                 Id = 3,
                 Username = "User",
                 Password = "3",
+                Id_Employee = 3,
                 Id_Type = 3
             });
             #endregion
@@ -395,30 +399,37 @@ namespace DXApplication1.DAL
             {
                 Id = 1,
                 Name = "Nguyễn Văn A",
+                Gender = true,
                 Birthday = Convert.ToDateTime("1998-02-05"),
                 Address = "Đà Nẵng",
                 Phone = "0905050001",
-                Id_Account = 1
+
+
             });
             context.Employees.Add(new Employee
             {
                 Id = 2,
                 Name = "Nguyễn Văn B",
+                Gender = true,
                 Birthday = Convert.ToDateTime("2001-09-03"),
                 Address = "Quảng Nam",
                 Phone = "0905050002",
-                Id_Account = 2
+ 
+
             });
             context.Employees.Add(new Employee
             {
                 Id = 3,
                 Name = "Nguyễn Văn C",
+                Gender = true,
                 Birthday = Convert.ToDateTime("2000-06-01"),
                 Address = "Huế",
                 Phone = "0905050003",
-                Id_Account = 3
+          
+    
             });
             #endregion
+            context.SaveChanges();
         }
     }
 }
