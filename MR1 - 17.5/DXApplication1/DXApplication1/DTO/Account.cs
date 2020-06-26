@@ -26,12 +26,12 @@ namespace DXApplication1.DTO
         [Required]
         public string Password { get; set; }
         [Required]
-        public int Id_Type { get; set; }
+        public int Id_Employee { get; set; }
         [Required]
-        [DefaultValue("false")]
-        public bool Is_Deleted { get; set; }
+        public int Id_Type { get; set; }
         [ForeignKey("Id_Type")]
         public virtual TypeAccount TypeAccount { get; set; }
-        //public virtual Employee Employee { get; set; }
+        [ForeignKey("Id_Employee")]
+        public virtual Employee Employee { get; set; }
     }
 }

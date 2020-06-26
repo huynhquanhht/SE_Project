@@ -12,15 +12,20 @@ using DXApplication1.GUI.TabStatistic;
 using DXApplication1.GUI;
 using DXApplication1.GUI.TabSale;
 using DXApplication1.DAL;
+using DXApplication1.GUI.All;
+using DXApplication1.DTO;
+using DXApplication1.View.All;
 
 namespace DXApplication1
 {
     public partial class Menu : DevExpress.XtraEditors.XtraForm
     {
-        public Menu()
+        int Id_Employee { get; set; }
+        public Menu(int Id)
         {
+            this.Id_Employee = Id;
             InitializeComponent();
-            SetInterface();
+            SetView();
         }
         private Form activeForm = null;
  
@@ -41,15 +46,18 @@ namespace DXApplication1
             childForm.BringToFront();
             childForm.Show();
         }
-        public void SetInterface()
+        public void SetView()
         {
- 
-            btn_System_Click(btn_System, new EventArgs());
-            
-        }
-        public void ResetColorButton()
-        {
-            
+            openChildForm(new TabSystem());
+            if (BUS_Employee.Instance.GetEmployee(Id_Employee) != null)
+            {
+                Employee em = BUS_Employee.Instance.GetEmployee(Id_Employee);
+                ddbtn_Menu.Text = em.Name;
+            }
+            else
+            {
+                FormMessageBox mess = new FormMessageBox("Lỗi tải dữ liệu tài khoản! Vui lòng kiểm tra lại!");
+            }
         }
         public void ChangeColorAllButton()
         {
@@ -79,18 +87,27 @@ namespace DXApplication1
             openChildForm(new Sales());
         }
 
-
-
-        private void panelChildForm_Paint(object sender, PaintEventArgs e)
+        private void bbi_InfoPerson_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
         {
-
+            PersonalInfo fpi = new PersonalInfo(Id_Employee);
+            fpi.ShowDialog();
         }
 
-        private void chartControl1_Click(object sender, EventArgs e)
+        private void bbi_ChangePass_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
         {
-
+            ChangePass cp = new ChangePass(Id_Employee);
+            cp.ShowDialog();
         }
-    
+
+        private void bbi_Exit_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
+        {
+            FormYesNoBox formYesNoBox = new FormYesNoBox("Bạn chắc chắn muốn thoátt?");
+            formYesNoBox.ShowDialog();
+            if (formYesNoBox.GetValue() == 1)
+            {
+                Application.Exit();
+            }
+        }
     }
    
 }

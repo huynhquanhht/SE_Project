@@ -20,9 +20,6 @@ namespace DXApplication1.DTO
         [Required]
         [Index(IsUnique = true)]
         public string Name { get; set; }
-        [Required]
-        [DefaultValue("false")]
-        public bool Is_Deleted { get; set; }
         //public virtual Account Account { get; set; }
     }
 }

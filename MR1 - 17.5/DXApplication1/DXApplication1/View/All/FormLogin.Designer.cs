@@ -67,23 +67,22 @@
             this.panelControl1.Controls.Add(this.panelControl6);
             this.panelControl1.Controls.Add(this.panelControl2);
             this.panelControl1.Controls.Add(this.pictureBox1);
-            this.panelControl1.Location = new System.Drawing.Point(-3, -3);
+            this.panelControl1.Location = new System.Drawing.Point(-3, -4);
             this.panelControl1.Name = "panelControl1";
-            this.panelControl1.Size = new System.Drawing.Size(467, 352);
+            this.panelControl1.Size = new System.Drawing.Size(352, 342);
             this.panelControl1.TabIndex = 1;
             // 
             // lbl_Login
             // 
-            this.lbl_Login.Appearance.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbl_Login.Appearance.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl_Login.Appearance.ForeColor = System.Drawing.Color.Red;
             this.lbl_Login.Appearance.Options.UseFont = true;
             this.lbl_Login.Appearance.Options.UseForeColor = true;
             this.lbl_Login.BorderStyle = DevExpress.XtraEditors.Controls.BorderStyles.NoBorder;
-            this.lbl_Login.Location = new System.Drawing.Point(78, 260);
+            this.lbl_Login.Location = new System.Drawing.Point(53, 248);
             this.lbl_Login.Name = "lbl_Login";
-            this.lbl_Login.Size = new System.Drawing.Size(6, 16);
+            this.lbl_Login.Size = new System.Drawing.Size(0, 16);
             this.lbl_Login.TabIndex = 11;
-            this.lbl_Login.Text = "c";
             // 
             // btn_Exit
             // 
@@ -91,9 +90,9 @@
             this.btn_Exit.Appearance.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_Exit.Appearance.Options.UseBackColor = true;
             this.btn_Exit.Appearance.Options.UseFont = true;
-            this.btn_Exit.Location = new System.Drawing.Point(269, 287);
+            this.btn_Exit.Location = new System.Drawing.Point(207, 277);
             this.btn_Exit.Name = "btn_Exit";
-            this.btn_Exit.Size = new System.Drawing.Size(105, 43);
+            this.btn_Exit.Size = new System.Drawing.Size(91, 39);
             this.btn_Exit.TabIndex = 10;
             this.btn_Exit.Text = "Thoát";
             this.btn_Exit.Click += new System.EventHandler(this.btn_Exit_Click);
@@ -104,9 +103,9 @@
             this.btn_Login.Appearance.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_Login.Appearance.Options.UseBackColor = true;
             this.btn_Login.Appearance.Options.UseFont = true;
-            this.btn_Login.Location = new System.Drawing.Point(78, 287);
+            this.btn_Login.Location = new System.Drawing.Point(56, 277);
             this.btn_Login.Name = "btn_Login";
-            this.btn_Login.Size = new System.Drawing.Size(105, 43);
+            this.btn_Login.Size = new System.Drawing.Size(91, 39);
             this.btn_Login.TabIndex = 9;
             this.btn_Login.Text = "Đăng nhập";
             this.btn_Login.Click += new System.EventHandler(this.btn_Login_Click);
@@ -119,18 +118,18 @@
             this.panelControl6.Controls.Add(this.labelControl3);
             this.panelControl6.Location = new System.Drawing.Point(3, 3);
             this.panelControl6.Name = "panelControl6";
-            this.panelControl6.Size = new System.Drawing.Size(464, 46);
+            this.panelControl6.Size = new System.Drawing.Size(349, 41);
             this.panelControl6.TabIndex = 6;
             // 
             // labelControl3
             // 
-            this.labelControl3.Appearance.Font = new System.Drawing.Font("Tahoma", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.labelControl3.Appearance.Font = new System.Drawing.Font("Tahoma", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labelControl3.Appearance.ForeColor = System.Drawing.Color.White;
             this.labelControl3.Appearance.Options.UseFont = true;
             this.labelControl3.Appearance.Options.UseForeColor = true;
-            this.labelControl3.Location = new System.Drawing.Point(12, 10);
+            this.labelControl3.Location = new System.Drawing.Point(6, 9);
             this.labelControl3.Name = "labelControl3";
-            this.labelControl3.Size = new System.Drawing.Size(113, 25);
+            this.labelControl3.Size = new System.Drawing.Size(103, 23);
             this.labelControl3.TabIndex = 0;
             this.labelControl3.Text = "Đăng nhập";
             // 
@@ -139,7 +138,7 @@
             this.panelControl2.BorderStyle = DevExpress.XtraEditors.Controls.BorderStyles.NoBorder;
             this.panelControl2.Controls.Add(this.panelControl3);
             this.panelControl2.Controls.Add(this.panelControl4);
-            this.panelControl2.Location = new System.Drawing.Point(97, 179);
+            this.panelControl2.Location = new System.Drawing.Point(46, 163);
             this.panelControl2.Name = "panelControl2";
             this.panelControl2.Size = new System.Drawing.Size(265, 74);
             this.panelControl2.TabIndex = 4;
@@ -167,13 +166,11 @@
             // txt_Password
             // 
             this.txt_Password.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txt_Password.Location = new System.Drawing.Point(81, 5);
-            this.txt_Password.Multiline = true;
+            this.txt_Password.Location = new System.Drawing.Point(81, 6);
             this.txt_Password.Name = "txt_Password";
-            this.txt_Password.Size = new System.Drawing.Size(169, 25);
+            this.txt_Password.PasswordChar = '*';
+            this.txt_Password.Size = new System.Drawing.Size(169, 23);
             this.txt_Password.TabIndex = 3;
-            this.txt_Password.Text = "3";
-            this.txt_Password.UseSystemPasswordChar = true;
             // 
             // panelControl4
             // 
@@ -199,10 +196,9 @@
             // 
             this.txt_Username.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.txt_Username.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txt_Username.Location = new System.Drawing.Point(81, 5);
-            this.txt_Username.Multiline = true;
+            this.txt_Username.Location = new System.Drawing.Point(81, 6);
             this.txt_Username.Name = "txt_Username";
-            this.txt_Username.Size = new System.Drawing.Size(169, 25);
+            this.txt_Username.Size = new System.Drawing.Size(169, 23);
             this.txt_Username.TabIndex = 3;
             this.txt_Username.Text = "User";
             // 
@@ -210,7 +206,7 @@
             // 
             this.pictureBox1.BackColor = System.Drawing.Color.White;
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(107, 72);
+            this.pictureBox1.Location = new System.Drawing.Point(54, 61);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(247, 92);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -219,11 +215,12 @@
             // 
             // frm_Login
             // 
+            this.AcceptButton = this.btn_Login;
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(463, 361);
+            this.ClientSize = new System.Drawing.Size(349, 339);
             this.Controls.Add(this.panelControl1);
-            this.FormBorderEffect = DevExpress.XtraEditors.FormBorderEffect.Glow;
+            this.FormBorderEffect = DevExpress.XtraEditors.FormBorderEffect.Shadow;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "frm_Login";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;

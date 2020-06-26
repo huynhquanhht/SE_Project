@@ -19,6 +19,9 @@ namespace DXApplication1.DTO
         [Column(TypeName = "nvarchar")]
         [Required]
         public string Name { get; set; }
+        [Column(TypeName = "bit")]
+        [Required]
+        public bool Gender { get; set; }
         [Required]
         [Column(TypeName = "Date")]
         public DateTime Birthday { get; set; }
@@ -27,14 +30,14 @@ namespace DXApplication1.DTO
         [Required]
         public string Address { get; set; }
         [Required]
+        [Index(IsUnique = true)]
+        [Column(TypeName = "nvarchar")]
         public string Phone { get; set; }
-        [Required]
-        public int Id_Account { get; set; }
         [Required]
         [DefaultValue("false")]
         public bool Is_Deleted { get; set; }
-        [ForeignKey("Id_Account")]
-        public virtual Account Account { get; set; }
+    
+        //public virtual Account Account { get; set; }
         //public virtual Bill Bill { get; set; }
     }
 }
