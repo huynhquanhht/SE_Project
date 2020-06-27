@@ -77,14 +77,14 @@ namespace DXApplication1
         {
             ChangeColorAllButton();
             btn_Sale.Appearance.BackColor = SystemColors.HotTrack;
-            openChildForm(new XtraForm1());
+            openChildForm(new fSale());
         }
 
         private void btn_Statistical_Click(object sender, EventArgs e)
         {
             ChangeColorAllButton();
             btn_Statistical.Appearance.BackColor = SystemColors.HotTrack;
-            openChildForm(new Sales());
+            openChildForm(new fStatistic());
         }
 
         private void bbi_InfoPerson_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
@@ -101,7 +101,7 @@ namespace DXApplication1
 
         private void bbi_Exit_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
         {
-            FormYesNoBox formYesNoBox = new FormYesNoBox("Bạn chắc chắn muốn thoátt?");
+            FormYesNoBox formYesNoBox = new FormYesNoBox("Bạn chắc chắn muốn thoát?");
             formYesNoBox.ShowDialog();
             if (formYesNoBox.GetValue() == 1)
             {

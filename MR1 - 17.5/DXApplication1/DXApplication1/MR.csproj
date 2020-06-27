@@ -82,6 +82,7 @@
     <Compile Include="BUS\BUS_Bill.cs" />
     <Compile Include="BUS\BUS_BillInfo.cs" />
     <Compile Include="BUS\BUS_Category.cs" />
+    <Compile Include="Item\CbbItem.cs" />
     <Compile Include="Model\CreateDB.cs" />
     <Compile Include="BUS\BUS_Employee.cs" />
     <Compile Include="BUS\BUS_Item.cs" />
@@ -125,17 +126,17 @@
     <Compile Include="View\All\FormYesNoBox.Designer.cs">
       <DependentUpon>FormYesNoBox.cs</DependentUpon>
     </Compile>
-    <Compile Include="View\TabSale\FormSale.cs">
+    <Compile Include="View\TabSale\Sale.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="View\TabSale\FormSale.Designer.cs">
-      <DependentUpon>FormSale.cs</DependentUpon>
+    <Compile Include="View\TabSale\Sale.Designer.cs">
+      <DependentUpon>Sale.cs</DependentUpon>
     </Compile>
-    <Compile Include="View\TabStatistic\FormStatistic.cs">
+    <Compile Include="View\TabStatistic\Statistic.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="View\TabStatistic\FormStatistic.Designer.cs">
-      <DependentUpon>FormStatistic.cs</DependentUpon>
+    <Compile Include="View\TabStatistic\Statistic.Designer.cs">
+      <DependentUpon>Statistic.cs</DependentUpon>
     </Compile>
     <Compile Include="View\TabSystem\FormAccount.cs">
       <SubType>Form</SubType>
@@ -208,11 +209,11 @@
     <EmbeddedResource Include="View\All\FormYesNoBox.resx">
       <DependentUpon>FormYesNoBox.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="View\TabSale\FormSale.resx">
-      <DependentUpon>FormSale.cs</DependentUpon>
+    <EmbeddedResource Include="View\TabSale\Sale.resx">
+      <DependentUpon>Sale.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="View\TabStatistic\FormStatistic.resx">
-      <DependentUpon>FormStatistic.cs</DependentUpon>
+    <EmbeddedResource Include="View\TabStatistic\Statistic.resx">
+      <DependentUpon>Statistic.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="View\TabSystem\FormAccount.resx">
       <DependentUpon>FormAccount.cs</DependentUpon>

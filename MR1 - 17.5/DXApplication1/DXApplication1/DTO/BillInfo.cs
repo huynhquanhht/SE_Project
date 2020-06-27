@@ -31,6 +31,7 @@ namespace DXApplication1.DTO
         [ForeignKey("Id_Item")]
         public Item Item { get; set; }
       
+
        
  
     }
