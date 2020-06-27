@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 
 namespace DXApplication1.DAL
 {
-    class BUS_Category
+    public class BUS_Category
     {
-       
+        private BUS_Category() { }
         private static BUS_Category _Instance;
         internal static BUS_Category Instance
         {
@@ -35,7 +35,7 @@ namespace DXApplication1.DAL
                     else
                         return null;
                 }
-                catch(Exception)
+                catch (Exception)
                 {
                     return null;
                 }
@@ -54,7 +54,7 @@ namespace DXApplication1.DAL
                     else
                         return null;
                 }
-                catch(Exception)
+                catch (Exception)
                 {
                     return null;
                 }
@@ -118,13 +118,22 @@ namespace DXApplication1.DAL
                     db.SaveChanges();
                     return true;
                 }
-                catch(Exception)
+                catch (Exception)
                 {
                     return false;
                 }
             }
         }
-
-
+        #region GET
+        public List<DTO.Category> GetListCategory()
+        {
+            List<DTO.Category> listCategory = new List<DTO.Category>();
+            using (SE_08 db = new SE_08())
+            {
+                listCategory = db.Categories.Select(p => p).ToList();
+            }
+            return listCategory;
+        }
+        #endregion
     }
 }

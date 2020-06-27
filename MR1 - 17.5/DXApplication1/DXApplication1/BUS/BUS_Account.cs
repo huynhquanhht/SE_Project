@@ -8,11 +8,11 @@ using System.Threading.Tasks;
 
 namespace DXApplication1.DAL
 {
-    class BUS_Account
+    public class BUS_Account
     {
-
+        private BUS_Account() { }
         private static BUS_Account _Instance;
-        internal static BUS_Account Instance
+        public static BUS_Account Instance
         {
             get
             {

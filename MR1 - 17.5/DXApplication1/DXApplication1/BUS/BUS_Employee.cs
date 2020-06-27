@@ -7,8 +7,9 @@ using System.Threading.Tasks;
 
 namespace DXApplication1.DAL
 {
-    class BUS_Employee
+    public class BUS_Employee
     {
+        private BUS_Employee() { }
         private static BUS_Employee _Instance;
         internal static BUS_Employee Instance
         {

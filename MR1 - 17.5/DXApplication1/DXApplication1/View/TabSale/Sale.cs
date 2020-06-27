@@ -35,15 +35,12 @@ namespace DXApplication1.GUI.TabSale
 
         void LoadPnTable()
         {
-            List<DTO.Table> listTable = GetListTable();
+            List<DTO.Table> listTable = BUS_Table.Instance.GetListTable();
             int maxTable = CountTable();
-
             Color[] color = new Color[] { Color.Aqua, Color.BlueViolet };
             pnlTable.BackColor = Color.Azure;
             pnlTable.AutoScroll = true;
-
             int size = 60;
-
             for (int i = 0; i < maxTable; ++i)
             {
                 Button btn = new Button()
@@ -55,7 +52,6 @@ namespace DXApplication1.GUI.TabSale
                     Tag = listTable[i].Id
                 };
                 btn.Click += btn_Click;
-
                 pnlTable.Controls.Add(btn);
             }
         }
@@ -66,14 +62,13 @@ namespace DXApplication1.GUI.TabSale
         {
             LoadPnTable();
             LoadListCategory();
-            LoadColumnBill();
             LoadCbbTable1();
             LoadCbbTable2();
         }
 
         private void LoadCbbTable1()
         {
-            List<Table> listTable = GetListTable();
+            List<Table> listTable = BUS_Table.Instance.GetListTable();
             List<CbbItem> listItem = new List<CbbItem>();
             foreach (Table t in listTable)
             {
@@ -83,7 +78,7 @@ namespace DXApplication1.GUI.TabSale
         }
         private void LoadCbbTable2()
         {
-            List<Table> listTable = GetListTable();
+            List<Table> listTable = BUS_Table.Instance.GetListTable();
             List<CbbItem> listItem = new List<CbbItem>();
             foreach (Table t in listTable)
             {
@@ -93,53 +88,30 @@ namespace DXApplication1.GUI.TabSale
         }
         private void LoadListCategory()
         {
-            List<DTO.Category> listCategory = GetListCategory();
-            foreach (DTO.Category c in listCategory)
+            List<DTO.Category> listCategory = BUS_Category.Instance.GetListCategory();
+            List<CbbItem> listItem = new List<CbbItem>();
+            foreach (DTO.Category i in listCategory)
             {
-                cbbCategory.Items.Add(new CbbItem(c.Id, c.Name));
+                listItem.Add(new CbbItem(i.Id, i.Name));
             }
-
+            cbbCategory.DataSource = listItem;
         }
 
-        private void LoadListFood(int IDCategory)
+        private void LoadCbbFood(int IDCategory)
         {
-            List<DTO.Item> listFood = GetListFood();
+            List<DTO.Item> listFood = BUS_Item.Instance.GetListFoodByIDCategory(IDCategory);
+            List<CbbItem> listItem = new List<CbbItem>();
             foreach (DTO.Item i in listFood)
             {
-                cbbFood.Items.Add(new CbbItem(i.Id, i.Name));
+                listItem.Add(new CbbItem(i.Id, i.Name));
             }
-
-        }
-        private int GetTotal(int Id_Bill)
-        {
-
-            using (SE_08 db = new SE_08())
-            {
-                var q = db.BillInfos.Where(p => p.Id_Bill == Id_Bill && p.Id_Item == p.Item.Id && p.Is_Deleted == false).Select(p => p.Amount * p.Item.Price).ToString();
-                return Int32.Parse(q);
-            }
+            cbbFood.DataSource = listItem;
         }
 
 
-        private List<DTO.Table> GetListTable()
-        {
-            List<DTO.Table> listTable = new List<DTO.Table>();
-            using (SE_08 db = new SE_08())
-            {
-                listTable = db.Tables.Select(p => p).ToList();
-            }
-            return listTable;
-        }
-        private int GetIDBillByIDTable(int IDTable)
-        {
 
-            using (SE_08 db = new SE_08())
-            {
-                var q = db.Bills.Where(p => p.Id_Table == IDTable && p.Is_Deleted == false && p.Status == false).Select(p => p.Id).FirstOrDefault();
-                //  MessageBox.Show("q: " + q);
-                return q;
-            }
-        }
+       
+       
 
         private int CountTable()
         {
@@ -149,29 +121,13 @@ namespace DXApplication1.GUI.TabSale
             }
         }
 
-        private List<DTO.Category> GetListCategory()
-        {
-            List<DTO.Category> listCategory = new List<DTO.Category>();
-            using (SE_08 db = new SE_08())
-            {
-                listCategory = db.Categories.Select(p => p).ToList();
-            }
-            return listCategory;
-        }
+      
 
-        private List<DTO.Item> GetListFood()
-        {
-            List<DTO.Item> listFood = new List<DTO.Item>();
-            using (SE_08 db = new SE_08())
-            {
-                listFood = db.Items.Select(p => p).ToList();
-            }
-            return listFood;
-        }
+       
 
         private void cbbCategory_SelectedIndexChanged(object sender, EventArgs e)
         {
-            LoadListFood((int)(cbbCategory.SelectedItem as CbbItem).Key);
+            LoadCbbFood((int)(cbbCategory.SelectedItem as CbbItem).Key);
         }
 
         private void btnAdd_Click(object sender, EventArgs e)
@@ -196,12 +152,12 @@ namespace DXApplication1.GUI.TabSale
                     else
                     {
                         int IDTable = Convert.ToInt32(dtgvBill.Tag);
-                        int IDBill = GetIDBillByIDTable(IDTable);
+                        int IDBill = BUS_Bill.Instance.GetIDBillByIDTable(IDTable);
                         if (IDBill == 0)
                         {
                             if (AddBill(IDTable))
                             {
-                                IDBill = GetIDBillByIDTable(IDTable);
+                                IDBill = BUS_Bill.Instance.GetIDBillByIDTable(IDTable);
                                 // MessageBox.Show("Tạo mới hoá đơn thành công");
                             }
                             else
@@ -209,11 +165,12 @@ namespace DXApplication1.GUI.TabSale
                                 MessageBox.Show("Tạo mới hoá đơn không thành công");
                             }
                         }
-                        int IDFood = (int)(cbbFood.SelectedItem as CbbItem).Key;;
+                        int IDFood = (int)(cbbFood.SelectedItem as CbbItem).Key; ;
                         if (AddFood(IDBill, IDFood, amount))
                         {
                             showBill(IDTable);
-                           // MessageBox.Show("Thêm món thành công");
+                            LoadTotalPrice(IDTable);
+                            // MessageBox.Show("Thêm món thành công");
                         }
                         else
                         {
@@ -230,7 +187,6 @@ namespace DXApplication1.GUI.TabSale
             {
                 using (SE_08 db = new SE_08())
                 {
-                    // MessageBox.Show(iDTable + "\n" + employee.Id);
                     db.Bills.Add(new DTO.Bill { Id_Table = iDTable, Id_Employee = employee.Id, Date_Order = DateTime.Now, Date_Pay = DateTime.Now });
 
                     return db.SaveChanges() > 0;
@@ -242,77 +198,36 @@ namespace DXApplication1.GUI.TabSale
                 MessageBox.Show(e.Message);
                 MessageBox.Show("Có lỗi khi tạo mới hoá đơn");
                 return false;
-
             }
-
         }
 
         private void btn_Click(object sender, EventArgs e)
         {
-
             int IdTable = (int)(sender as Button).Tag;
             dtgvBill.Tag = IdTable;
-            // int IDBill = GetIDBillByIDTable(Convert.ToInt32(dtgvBill.Tag));
-            // MessageBox.Show("IDBill: " + IDBill);
-            //  MessageBox.Show(idTable.ToString());
             showBill(IdTable);
             LoadTotalPrice(IdTable);
         }
         private List<BillInfo> GetListBillInfoByIDTable(int IDTable)
         {
-
-
             List<BillInfo> listBillInfo = new List<BillInfo>();
-
             using (SE_08 db = new SE_08())
             {
-                int IDBill = GetIDBillByIDTable(IDTable);
+                int IDBill = BUS_Bill.Instance.GetIDBillByIDTable(IDTable);
                 listBillInfo = db.BillInfos.Where(p => p.Id_Bill == IDBill && p.Bill.Is_Deleted == false).Select(p => p).ToList();
             }
             return listBillInfo;
         }
-        private void LoadColumnBill()
-        {
-            DataTable dt = new DataTable();
-            dt.Columns.Add("Tên món", Type.GetType("System.String"));
-            dt.Columns.Add("Số lượng", Type.GetType("System.Int32"));
-            dt.Columns.Add("Đơn giá", Type.GetType("System.Int32"));
-            dt.Columns.Add("Tổng tiền", Type.GetType("System.Int32"));
 
-            DataRow dr = dt.NewRow();
-            dtgvBill.DataSource = dt;
-
-        }
         private void showBill(int IDTable)
         {
-            //dtgvBill.DataSource = null;
-            //gridView1.DataSource = null;
-            // MessageBox.Show(gridView1.RowCount + "");
-            //for (int i = 0; i <10; i++)
-            //{
-            //    gridView1.DeleteRow(i);
-            LoadColumnBill();
-
-            List<BillInfo> listBillInfo = new List<BillInfo>();
             using (SE_08 db = new SE_08())
             {
-                int IDBill = GetIDBillByIDTable(IDTable);
-                listBillInfo = db.BillInfos.Where(p => p.Id_Bill == IDBill && p.Bill.Id_Table == IDTable && p.Bill.Status == false).Select(p => p).ToList();
-                foreach (BillInfo item in listBillInfo)
-                {
-
-                    int IDFood = item.Id_Item;
-                    Item food = GetFoodByIDFood(IDFood);
-                    gridView1.AddNewRow();
-                    gridView1.SetRowCellValue(gridView1.FocusedRowHandle, gridView1.Columns[0], food.Name);
-                    gridView1.SetRowCellValue(gridView1.FocusedRowHandle, gridView1.Columns[1], item.Amount);
-                    gridView1.SetRowCellValue(gridView1.FocusedRowHandle, gridView1.Columns[2], food.Price);
-                    gridView1.SetRowCellValue(gridView1.FocusedRowHandle, gridView1.Columns[3], food.Price * item.Amount);
-                    //MessageBox.Show(food.Name+"\n"+item.Amount+"\n"+food.Price);
-                }
+                int IDBill = BUS_Bill.Instance.GetIDBillByIDTable(IDTable);
+                object listBillInfo = db.BillInfos.Where(p => p.Id_Bill == IDBill && p.Bill.Id_Table == IDTable && p.Bill.Status == false).Select(p => new { p.Item.Name, p.Amount, p.Item.Price, Total = p.Amount * p.Item.Price }).ToList();
+                dtgvBill.DataSource = listBillInfo;
 
             }
-
         }
 
         private int GetIDFoodByNameFood(String NameFood)
@@ -389,15 +304,11 @@ namespace DXApplication1.GUI.TabSale
                     lbTotalPrice.Text = GetTotalPrice((int)dtgvBill.Tag).ToString();
                 }
                 RemoveBillNotExistItem((int)dtgvBill.Tag);
-
-
-
             }
             else
             {
                 MessageBox.Show("Xoá món không thành công");
             }
-
         }
 
         private bool RemoveFood(int[] selectedRowHandles)
@@ -407,7 +318,7 @@ namespace DXApplication1.GUI.TabSale
                 using (SE_08 db = new SE_08())
                 {
                     int IDTable = (int)(dtgvBill.Tag);
-                    int IDBill = GetIDBillByIDTable(IDTable);
+                    int IDBill = BUS_Bill.Instance.GetIDBillByIDTable(IDTable);
                     foreach (int row in selectedRowHandles)
                     {
                         String foodName = (String)gridView1.GetRowCellValue(row, "Tên món");
@@ -429,7 +340,7 @@ namespace DXApplication1.GUI.TabSale
         {
             try
             {
-                int IDBill = GetIDBillByIDTable(IDTable);
+                int IDBill = BUS_Bill.Instance.GetIDBillByIDTable(IDTable);
                 using (SE_08 db = new SE_08())
                 {
                     //MessageBox.Show("Count: " + db.BillInfos.Where(p => p.Id_Bill == IDBill).Count().ToString());
@@ -453,7 +364,7 @@ namespace DXApplication1.GUI.TabSale
         {
             try
             {
-                int IDBill = GetIDBillByIDTable(IDTable);
+                int IDBill = BUS_Bill.Instance.GetIDBillByIDTable(IDTable);
                 using (SE_08 db = new SE_08())
                 {
                     //MessageBox.Show("Count: " + db.BillInfos.Where(p => p.Id_Bill == IDBill).Count().ToString());
@@ -474,7 +385,6 @@ namespace DXApplication1.GUI.TabSale
         {
             if (RemoveBill((int)dtgvBill.Tag))
             {
-                LoadColumnBill();
                 lbTotalPrice.Text = "0";
                 //MessageBox.Show("Huỷ hoá đơn thành công");
             }
@@ -482,8 +392,6 @@ namespace DXApplication1.GUI.TabSale
             {
                 MessageBox.Show("Huỷ hoá đơn không thành công");
             }
-
-
         }
 
         private void btnPay_Click(object sender, EventArgs e)
@@ -492,7 +400,6 @@ namespace DXApplication1.GUI.TabSale
             {
                 if (Pay((int)dtgvBill.Tag))
                 {
-                    LoadColumnBill();
                     MessageBox.Show("Thanh toán thành công");
                 }
                 else
@@ -506,7 +413,7 @@ namespace DXApplication1.GUI.TabSale
         {
             try
             {
-                int IDBill = GetIDBillByIDTable(IDTable);
+                int IDBill = BUS_Bill.Instance.GetIDBillByIDTable(IDTable);
                 using (SE_08 db = new SE_08())
                 {
                     var q = db.Bills.Where(p => p.Id == IDBill && p.Status == false).Select(p => p).FirstOrDefault();
@@ -525,7 +432,7 @@ namespace DXApplication1.GUI.TabSale
         {
             try
             {
-                int IDBill = GetIDBillByIDTable(IDTable);
+                int IDBill = BUS_Bill.Instance.GetIDBillByIDTable(IDTable);
                 if (IDBill != 0)
                 {
                     using (SE_08 db = new SE_08())
@@ -566,18 +473,15 @@ namespace DXApplication1.GUI.TabSale
             foreach (var item in q)
             {
                 AddFood(IDBill2, item.Id_Item, item.Amount);
-                //item.Id_Bill = IDBill2;
             }
             var d = db.Bills.Where(p => p.Id == IDBill1).Select(p => p).FirstOrDefault();
             db.Bills.Remove(d);
-           
-            
             return db.SaveChanges() > 0;
         }
         private void btnChangeMerge_Click(object sender, EventArgs e)
         {
-            int IDBill1 = GetIDBillByIDTable((int)(cbbTable1.SelectedItem as CbbItem).Key);
-            int IDBill2 = GetIDBillByIDTable((int)(cbbTable2.SelectedItem as CbbItem).Key);
+            int IDBill1 = BUS_Bill.Instance.GetIDBillByIDTable((int)(cbbTable1.SelectedItem as CbbItem).Key);
+            int IDBill2 = BUS_Bill.Instance.GetIDBillByIDTable((int)(cbbTable2.SelectedItem as CbbItem).Key);
             if (IDBill1 == 0)
             {
                 MessageBox.Show("Bàn bạn muốn thao tác hiện đang hiện đang trống, không thể thực hiện.");

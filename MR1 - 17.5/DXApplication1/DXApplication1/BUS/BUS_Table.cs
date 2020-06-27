@@ -9,6 +9,7 @@ namespace DXApplication1.DAL
 {
     class BUS_Table
     {
+        private BUS_Table() { }
         private static BUS_Table _Instance;
         internal static BUS_Table Instance
         {
@@ -139,5 +140,16 @@ namespace DXApplication1.DAL
                 }
             }
         }
+        #region GET
+        public List<DTO.Table> GetListTable()
+        {
+            List<DTO.Table> listTable = new List<DTO.Table>();
+            using (SE_08 db = new SE_08())
+            {
+                listTable = db.Tables.Select(p => p).ToList();
+            }
+            return listTable;
+        }
+        #endregion
     }
 }

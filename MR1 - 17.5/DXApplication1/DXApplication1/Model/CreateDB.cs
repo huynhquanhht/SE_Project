@@ -301,6 +301,7 @@ namespace DXApplication1.DAL
                 Name = "Bàn 12"
             });
             #endregion
+#if false
             #region Thêm hóa đơn
             context.Bills.Add(new Bill
             {
@@ -348,8 +349,10 @@ namespace DXApplication1.DAL
                 Id_Employee = 3
             });
             #endregion
+
             #region Thêm thông tin hóa đơn
             #endregion
+#endif
             #region Thêm loại tài khoản
             context.TypeAccounts.Add(new TypeAccount
             {
@@ -366,8 +369,8 @@ namespace DXApplication1.DAL
                 Id = 3,
                 Name = "User"
             });
-            #endregion
-            #region Thêm tài khoản
+#endregion
+#region Thêm tài khoản
             context.Accounts.Add(new Account
             {
                 Id = 1,
@@ -393,8 +396,8 @@ namespace DXApplication1.DAL
                 Id_Employee = 3,
                 Id_Type = 3
             });
-            #endregion
-            #region Thêm nhân viên
+#endregion
+#region Thêm nhân viên
             context.Employees.Add(new Employee
             {
                 Id = 1,
@@ -428,7 +431,7 @@ namespace DXApplication1.DAL
           
     
             });
-            #endregion
+#endregion
             context.SaveChanges();
         }
     }

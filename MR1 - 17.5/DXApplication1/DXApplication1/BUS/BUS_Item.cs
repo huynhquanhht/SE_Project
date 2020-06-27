@@ -7,10 +7,11 @@ using System.Threading.Tasks;
 
 namespace DXApplication1.DAL
 {
-    class BUS_Item
+    public class BUS_Item
     {
+        private BUS_Item() { }
         private static BUS_Item _Instance;
-        internal static BUS_Item Instance
+        public static BUS_Item Instance
         {
             get
             {
@@ -31,7 +32,7 @@ namespace DXApplication1.DAL
             }
 
         }
-        public object Show_DAL(int Id_Category)
+        public object Show_DAL(int Id_Category=0)
         {
             using (SE_08 db = new SE_08())
             {
@@ -172,6 +173,14 @@ namespace DXApplication1.DAL
             
             }
         }
-
+        public List<DTO.Item> GetListFoodByIDCategory(int IDCategory)
+        {
+            List<DTO.Item> listFood = new List<DTO.Item>();
+            using (SE_08 db = new SE_08())
+            {
+                listFood = db.Items.Where(p => p.Id_Category == IDCategory).Select(p => p).ToList();
+            }
+            return listFood;
+        }
     }
 }

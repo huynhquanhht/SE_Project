@@ -27,5 +27,10 @@ namespace DXApplication1.GUI
         {
 
         }
+
+        private void simpleButton2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

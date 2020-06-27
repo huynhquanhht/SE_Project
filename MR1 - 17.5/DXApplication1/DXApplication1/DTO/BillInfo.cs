@@ -18,8 +18,8 @@ namespace DXApplication1.DTO
         [Required]
 
         public int Id_Bill { get; set; }
+      
         [Required]
-    
         public int Id_Item { get; set; }
         [Required]
         public int Amount { get; set; }
@@ -30,9 +30,10 @@ namespace DXApplication1.DTO
         public Bill Bill { get; set; }
         [ForeignKey("Id_Item")]
         public Item Item { get; set; }
-      
 
        
- 
+
+
+
     }
 }

@@ -25,6 +25,12 @@ namespace DXApplication1.GUI.TabStatistic
         }
         private void LoadAll()
         {
+            LoadInfo();
+
+
+        }
+        private void LoadInfo()
+        {
             SE_08 db = new SE_08();
             var q = db.Bills.Where(p => p.Status == true).Select(p => p);
             long total = 0;
@@ -37,8 +43,16 @@ namespace DXApplication1.GUI.TabStatistic
             btnTotal.Text = "Doanh thu\n" + total.ToString();
             int cntBill = db.Bills.Where(p => p.Status == true).Count();
             btnBill.Text = "Hoá đơn\n" + cntBill.ToString();
-            //int cntFood = db.BillInfos.Where(p=>p.Id)
+            int cntDrink = db.BillInfos.Where(p => p.Item.Category.Id == 5).Select(p => p.Amount).Sum();
+            btnDrink.Text = "Thức uống\n" + cntDrink.ToString();
+            int cntFood = db.BillInfos.Select(p => p.Amount).Sum() - cntDrink;
+            btnFood.Text = "Món ăn\n" + cntFood.ToString();
+        }
 
+        private void LoadRevenuePerDay()
+        {
+            SE_08 db = new SE_08();
+            var q = db.Bills.Select(p => new { total = p.Items.Select(x => x.Amount * x.Item.Price).Sum(), p.Date_Pay }).GroupBy(p => p.Date_Pay).FirstOrDefault();
 
         }
     }

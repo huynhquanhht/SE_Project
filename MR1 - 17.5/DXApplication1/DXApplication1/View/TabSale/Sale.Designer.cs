@@ -58,6 +58,10 @@
             this.labelControl6 = new DevExpress.XtraEditors.LabelControl();
             this.dtgvBill = new DevExpress.XtraGrid.GridControl();
             this.gridView1 = new DevExpress.XtraGrid.Views.Grid.GridView();
+            this.grdcol_Item = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.grdcol_price = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.grdcol_amount = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.gridColumn1 = new DevExpress.XtraGrid.Columns.GridColumn();
             ((System.ComponentModel.ISupportInitialize)(this.panelChildForm)).BeginInit();
             this.panelChildForm.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.panelControl1)).BeginInit();
@@ -475,10 +479,55 @@
             // 
             // gridView1
             // 
+            this.gridView1.Columns.AddRange(new DevExpress.XtraGrid.Columns.GridColumn[] {
+            this.grdcol_Item,
+            this.grdcol_price,
+            this.grdcol_amount,
+            this.gridColumn1});
             this.gridView1.DetailHeight = 431;
             this.gridView1.GridControl = this.dtgvBill;
             this.gridView1.Name = "gridView1";
             this.gridView1.OptionsBehavior.Editable = false;
+            // 
+            // grdcol_Item
+            // 
+            this.grdcol_Item.Caption = "Tên món";
+            this.grdcol_Item.FieldName = "Name";
+            this.grdcol_Item.MinWidth = 25;
+            this.grdcol_Item.Name = "grdcol_Item";
+            this.grdcol_Item.Visible = true;
+            this.grdcol_Item.VisibleIndex = 0;
+            this.grdcol_Item.Width = 94;
+            // 
+            // grdcol_price
+            // 
+            this.grdcol_price.Caption = "Đơn giá";
+            this.grdcol_price.FieldName = "Price";
+            this.grdcol_price.MinWidth = 25;
+            this.grdcol_price.Name = "grdcol_price";
+            this.grdcol_price.Visible = true;
+            this.grdcol_price.VisibleIndex = 1;
+            this.grdcol_price.Width = 94;
+            // 
+            // grdcol_amount
+            // 
+            this.grdcol_amount.Caption = "Số lượng";
+            this.grdcol_amount.FieldName = "Amount";
+            this.grdcol_amount.MinWidth = 25;
+            this.grdcol_amount.Name = "grdcol_amount";
+            this.grdcol_amount.Visible = true;
+            this.grdcol_amount.VisibleIndex = 2;
+            this.grdcol_amount.Width = 94;
+            // 
+            // gridColumn1
+            // 
+            this.gridColumn1.Caption = "Thành tiền";
+            this.gridColumn1.FieldName = "Total";
+            this.gridColumn1.MinWidth = 25;
+            this.gridColumn1.Name = "gridColumn1";
+            this.gridColumn1.Visible = true;
+            this.gridColumn1.VisibleIndex = 3;
+            this.gridColumn1.Width = 94;
             // 
             // fSale
             // 
@@ -548,5 +597,9 @@
         private System.Windows.Forms.ComboBox cbbFood;
         private System.Windows.Forms.ComboBox cbbTable2;
         private System.Windows.Forms.ComboBox cbbTable1;
+        private DevExpress.XtraGrid.Columns.GridColumn grdcol_Item;
+        private DevExpress.XtraGrid.Columns.GridColumn grdcol_price;
+        private DevExpress.XtraGrid.Columns.GridColumn grdcol_amount;
+        private DevExpress.XtraGrid.Columns.GridColumn gridColumn1;
     }
 }
