@@ -77,7 +77,7 @@ namespace DXApplication1
         {
             ChangeColorAllButton();
             btn_Sale.Appearance.BackColor = SystemColors.HotTrack;
-            openChildForm(new fSale());
+            openChildForm(new fSale(this.Id_Employee));
         }
 
         private void btn_Statistical_Click(object sender, EventArgs e)

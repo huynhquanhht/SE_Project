@@ -23,27 +23,19 @@ namespace DXApplication1.DAL
             }
             private set => _Instance = value;
         }
-        public IEnumerable<dynamic> GetCategory_DAL()
+        
+        public object Show_DAL(int Id_Category = 0)
         {
             using (SE_08 db = new SE_08())
             {
-                IEnumerable<dynamic> list_Category = db.Categories.Where(p => p.Is_Deleted == false).Select(p => new { p.Id, p.Name }).ToList();
-                return list_Category;
-            }
-
-        }
-        public object Show_DAL(int Id_Category=0)
-        {
-            using (SE_08 db = new SE_08())
-            {
-                if(Id_Category == 0)
+                if (Id_Category == 0)
                 {
                     try
                     {
                         var data = db.Items.Where(p => p.Is_Deleted == false).Select(p => new { Id = p.Id, Name = p.Name, Price = p.Price, Name_Category = p.Category.Name }).ToList();
                         return data;
                     }
-                    catch(Exception)
+                    catch (Exception)
                     {
                         return null;
                     }
@@ -56,12 +48,12 @@ namespace DXApplication1.DAL
                         var data = db.Items.Where(p => p.Is_Deleted == false && p.Id_Category == Id_Category).Select(p => new { p.Id, p.Name, p.Price }).ToList();
                         return data;
                     }
-                    catch(Exception)
+                    catch (Exception)
                     {
                         return null;
                     }
                 }
-                
+
             }
         }
         public object Search_DAL(int Id_Category, string str_Search)
@@ -119,7 +111,7 @@ namespace DXApplication1.DAL
                     }
                     else
                     {
-                        var data = db.Items.Add(new Item { Name = name_Item, Id_Category = Id_Category, Price = price_Item});
+                        var data = db.Items.Add(new Item { Name = name_Item, Id_Category = Id_Category, Price = price_Item });
                     }
                     db.SaveChanges();
                     return true;
@@ -166,11 +158,11 @@ namespace DXApplication1.DAL
                     db.SaveChanges();
                     return true;
                 }
-                catch(Exception)
+                catch (Exception)
                 {
                     return false;
                 }
-            
+
             }
         }
         public List<DTO.Item> GetListFoodByIDCategory(int IDCategory)
@@ -182,5 +174,43 @@ namespace DXApplication1.DAL
             }
             return listFood;
         }
+
+        #region GET
+        public bool AddFood(int IDBill, int IDFood, int amount)
+        {
+            try
+            {
+                using (SE_08 db = new SE_08())
+                {
+                    int cnt = db.BillInfos.Where(p => p.Id_Item == IDFood && p.Id_Bill == IDBill).Count();
+                    if (cnt <= 0 && amount > 0)
+                    {
+                        db.BillInfos.Add(new BillInfo { Id_Bill = IDBill, Id_Item = IDFood, Amount = amount });
+                    }
+                    else if (cnt > 0)
+                    {
+                        var q = db.BillInfos.Where(p => p.Id_Item == IDFood && p.Id_Bill == IDBill).Select(p => p).FirstOrDefault();
+                        if (q.Amount + amount <= 0)
+                        {
+                            db.BillInfos.Remove(q);
+                        }
+                        else
+                        {
+                            q.Amount += amount;
+                        }
+                    }
+                    return db.SaveChanges() > 0;
+                }
+            }
+            catch (Exception e)
+            {
+                //MessageBox.Show(e.Message);
+                //MessageBox.Show("Có lỗi trong quá trình thêm món");
+                return false;
+            }
+        }
+
+
+        #endregion
     }
 }

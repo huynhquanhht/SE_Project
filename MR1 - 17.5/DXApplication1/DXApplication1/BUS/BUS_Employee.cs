@@ -11,7 +11,7 @@ namespace DXApplication1.DAL
     {
         private BUS_Employee() { }
         private static BUS_Employee _Instance;
-        internal static BUS_Employee Instance
+        public static BUS_Employee Instance
         {
             get
             {

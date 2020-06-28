@@ -108,6 +108,7 @@
             this.panelChildForm.Name = "panelChildForm";
             this.panelChildForm.Size = new System.Drawing.Size(859, 583);
             this.panelChildForm.TabIndex = 22;
+            this.panelChildForm.Paint += new System.Windows.Forms.PaintEventHandler(this.panelChildForm_Paint);
             // 
             // cbbTable2
             // 
@@ -126,7 +127,6 @@
             this.cbbTable1.Name = "cbbTable1";
             this.cbbTable1.Size = new System.Drawing.Size(137, 24);
             this.cbbTable1.TabIndex = 48;
-            this.cbbTable1.SelectedIndexChanged += new System.EventHandler(this.cbbTable1_SelectedIndexChanged);
             // 
             // cbbFood
             // 

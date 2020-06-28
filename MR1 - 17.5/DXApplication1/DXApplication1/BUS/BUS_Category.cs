@@ -11,7 +11,7 @@ namespace DXApplication1.DAL
     {
         private BUS_Category() { }
         private static BUS_Category _Instance;
-        internal static BUS_Category Instance
+        public static BUS_Category Instance
         {
             get
             {
@@ -123,6 +123,15 @@ namespace DXApplication1.DAL
                     return false;
                 }
             }
+        }
+        public IEnumerable<dynamic> GetCategory_DAL()
+        {
+            using (SE_08 db = new SE_08())
+            {
+                IEnumerable<dynamic> list_Category = db.Categories.Where(p => p.Is_Deleted == false).Select(p => new { p.Id, p.Name }).ToList();
+                return list_Category;
+            }
+
         }
         #region GET
         public List<DTO.Category> GetListCategory()

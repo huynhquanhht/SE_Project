@@ -7,11 +7,11 @@ using System.Threading.Tasks;
 
 namespace DXApplication1.DAL
 {
-    class BUS_Table
+    public class BUS_Table
     {
         private BUS_Table() { }
         private static BUS_Table _Instance;
-        internal static BUS_Table Instance
+        public static BUS_Table Instance
         {
             get
             {
@@ -35,7 +35,7 @@ namespace DXApplication1.DAL
                     else
                         return null;
                 }
-                catch(Exception)
+                catch (Exception)
                 {
                     return null;
                 }
@@ -54,7 +54,7 @@ namespace DXApplication1.DAL
                     else
                         return null;
                 }
-                catch(Exception)
+                catch (Exception)
                 {
                     return null;
                 }
@@ -150,6 +150,28 @@ namespace DXApplication1.DAL
             }
             return listTable;
         }
-        #endregion
+
+        public bool UpdateIDTableOfBillByIDTable(int IDBill, int IDTableU)
+        {
+            SE_08 db = new SE_08();
+            var q = db.Bills.Where(p => p.Id == IDBill).Select(p => p).FirstOrDefault();
+            q.Id_Table = IDTableU;
+            return db.SaveChanges() > 0;
+        }
+        public String GetNameTableByIDTable(int IDTable)
+        {
+            using (SE_08 db = new SE_08())
+            {
+                return db.Tables.Where(p => p.Id == IDTable).Select(p => p.Name).FirstOrDefault();
+            }
+        }
+        public int CountTable()
+        {
+            using (SE_08 db = new SE_08())
+            {
+                return db.Tables.Count();
+            }
+            #endregion
+        }
     }
 }

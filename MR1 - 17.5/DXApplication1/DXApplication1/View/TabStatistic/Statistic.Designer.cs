@@ -32,7 +32,7 @@
             DevExpress.XtraCharts.Series series1 = new DevExpress.XtraCharts.Series();
             DevExpress.XtraCharts.StackedBarSeriesView stackedBarSeriesView1 = new DevExpress.XtraCharts.StackedBarSeriesView();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(fStatistic));
-            this.gridControl1 = new DevExpress.XtraGrid.GridControl();
+            this.dtgvRevenue = new DevExpress.XtraGrid.GridControl();
             this.gridView1 = new DevExpress.XtraGrid.Views.Grid.GridView();
             this.gridColumn2 = new DevExpress.XtraGrid.Columns.GridColumn();
             this.gridColumn1 = new DevExpress.XtraGrid.Columns.GridColumn();
@@ -50,7 +50,7 @@
             this.btnFood = new DevExpress.XtraEditors.SimpleButton();
             this.btnBill = new DevExpress.XtraEditors.SimpleButton();
             this.btnTotal = new DevExpress.XtraEditors.SimpleButton();
-            ((System.ComponentModel.ISupportInitialize)(this.gridControl1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dtgvRevenue)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.gridView1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.panelControl11)).BeginInit();
             this.panelControl11.SuspendLayout();
@@ -68,16 +68,16 @@
             this.panelControl3.SuspendLayout();
             this.SuspendLayout();
             // 
-            // gridControl1
+            // dtgvRevenue
             // 
-            this.gridControl1.EmbeddedNavigator.Margin = new System.Windows.Forms.Padding(4);
-            this.gridControl1.Location = new System.Drawing.Point(0, 12);
-            this.gridControl1.MainView = this.gridView1;
-            this.gridControl1.Margin = new System.Windows.Forms.Padding(4);
-            this.gridControl1.Name = "gridControl1";
-            this.gridControl1.Size = new System.Drawing.Size(415, 273);
-            this.gridControl1.TabIndex = 2;
-            this.gridControl1.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
+            this.dtgvRevenue.EmbeddedNavigator.Margin = new System.Windows.Forms.Padding(4);
+            this.dtgvRevenue.Location = new System.Drawing.Point(0, 12);
+            this.dtgvRevenue.MainView = this.gridView1;
+            this.dtgvRevenue.Margin = new System.Windows.Forms.Padding(4);
+            this.dtgvRevenue.Name = "dtgvRevenue";
+            this.dtgvRevenue.Size = new System.Drawing.Size(415, 273);
+            this.dtgvRevenue.TabIndex = 2;
+            this.dtgvRevenue.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
             this.gridView1});
             // 
             // gridView1
@@ -87,7 +87,7 @@
             this.gridColumn1,
             this.gridColumn3});
             this.gridView1.DetailHeight = 431;
-            this.gridView1.GridControl = this.gridControl1;
+            this.gridView1.GridControl = this.dtgvRevenue;
             this.gridView1.Name = "gridView1";
             // 
             // gridColumn2
@@ -110,6 +110,7 @@
             this.gridColumn1.AppearanceHeader.Options.UseFont = true;
             this.gridColumn1.AppearanceHeader.Options.UseForeColor = true;
             this.gridColumn1.Caption = "Ngày";
+            this.gridColumn1.FieldName = "DatePay";
             this.gridColumn1.MinWidth = 27;
             this.gridColumn1.Name = "gridColumn1";
             this.gridColumn1.Visible = true;
@@ -123,6 +124,7 @@
             this.gridColumn3.AppearanceHeader.Options.UseFont = true;
             this.gridColumn3.AppearanceHeader.Options.UseForeColor = true;
             this.gridColumn3.Caption = "Doanh thu";
+            this.gridColumn3.FieldName = "Total";
             this.gridColumn3.MinWidth = 27;
             this.gridColumn3.Name = "gridColumn3";
             this.gridColumn3.Visible = true;
@@ -220,7 +222,7 @@
             this.panelControl4.Appearance.Options.UseBackColor = true;
             this.panelControl4.BorderStyle = DevExpress.XtraEditors.Controls.BorderStyles.NoBorder;
             this.panelControl4.Controls.Add(this.panelControl11);
-            this.panelControl4.Controls.Add(this.gridControl1);
+            this.panelControl4.Controls.Add(this.dtgvRevenue);
             this.panelControl4.Location = new System.Drawing.Point(4, 124);
             this.panelControl4.Margin = new System.Windows.Forms.Padding(4);
             this.panelControl4.Name = "panelControl4";
@@ -320,7 +322,7 @@
             this.btnTotal.TabIndex = 2;
             this.btnTotal.Text = "Doanh thu";
             // 
-            // Statistic
+            // fStatistic
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -331,10 +333,10 @@
             this.Controls.Add(this.panelControl2);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Margin = new System.Windows.Forms.Padding(4);
-            this.Name = "Statistic";
+            this.Name = "fStatistic";
             this.Text = "Sales";
             this.Load += new System.EventHandler(this.Sales_Load);
-            ((System.ComponentModel.ISupportInitialize)(this.gridControl1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dtgvRevenue)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.gridView1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.panelControl11)).EndInit();
             this.panelControl11.ResumeLayout(false);
@@ -358,7 +360,7 @@
         }
 
         #endregion
-        private DevExpress.XtraGrid.GridControl gridControl1;
+        private DevExpress.XtraGrid.GridControl dtgvRevenue;
         private DevExpress.XtraGrid.Views.Grid.GridView gridView1;
         private DevExpress.XtraGrid.Columns.GridColumn gridColumn1;
         private DevExpress.XtraGrid.Columns.GridColumn gridColumn2;

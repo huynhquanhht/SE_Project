@@ -10,7 +10,7 @@ namespace DXApplication1.DAL
     {
         private BUS_BillInfo() { }
         private static BUS_BillInfo _Instance;
-        internal static BUS_BillInfo Instance
+        public static BUS_BillInfo Instance
         {
             get
             {
@@ -22,30 +22,31 @@ namespace DXApplication1.DAL
             }
             private set => _Instance = value;
         }
+
+        public int GetTotalPrice(int IDTable)
+        {
+            try
+            {
+                int IDBill = BUS_Bill.Instance.GetIDBillByIDTable(IDTable);
+                if (IDBill != 0)
+                {
+                    using (SE_08 db = new SE_08())
+                    {
+                        return db.BillInfos.Where(p => p.Id_Bill == IDBill && p.Bill.Status == false).Sum(p => p.Amount * p.Item.Price);
+                    }
+                }
+            }
+            catch
+            { }
+            return 0;
+
+        }
+        public object GetBillInfoDetail(int IDTable)
+        {
+            SE_08 db = new SE_08();
+            int IDBill = BUS_Bill.Instance.GetIDBillByIDTable(IDTable);
+            object listBillInfo = db.BillInfos.Where(p => p.Id_Bill == IDBill && p.Bill.Id_Table == IDTable && p.Bill.Status == false).Select(p => new { p.Item.Name, p.Amount, p.Item.Price, Total = p.Amount * p.Item.Price }).ToList();
+            return listBillInfo;
+        }
     }
-
-    //public object Getnt Id_Type)
-    //{
-    //    using (SE_08 db = new SE_08())
-    //    {
-    //        try
-    //        {
-    //            if (Id_Type == 0)
-    //            {
-    //                var data = db.Accounts.Select(p => new { Id = p.Id, Name = p.Employee.Name, p.Employee.Phone, p.Username, p.Password, NameType = p.TypeAccount.Name }).ToList();
-    //                return data;
-
-    //            }
-    //            else
-    //            {
-    //                var data = db.Accounts.Where(p => p.Id_Type == Id_Type).Select(p => new { Id = p.Id, Name = p.Employee.Name, p.Employee.Phone, p.Username, p.Password, NameType = p.TypeAccount.Name }).ToList();
-    //                return data;
-    //            }
-    //        }
-    //        catch (Exception)
-    //        {
-    //            return null;
-    //        }
-    //    }
-    //}
 }

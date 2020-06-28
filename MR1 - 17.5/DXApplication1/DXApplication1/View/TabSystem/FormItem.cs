@@ -54,7 +54,7 @@ namespace DXApplication1
                 cbb_Category.Items.Clear();
             }
             cbb_Category.Items.Add(new CBBItem { Value = 0, Text = "Tất cả" });
-            List<dynamic> list_Category = BUS_Item.Instance.GetCategory_DAL().ToList();
+            List<dynamic> list_Category = BUS_Category.Instance.GetCategory_DAL().ToList();
             if (list_Category != null)
             {
                 for (int i = 0; i < list_Category.Count; i++)
