@@ -10,6 +10,7 @@ using System.Windows.Forms;
 using DevExpress.XtraEditors;
 using DXApplication1.DAL;
 using DXApplication1.DTO;
+using System.Drawing.Drawing2D;
 namespace DXApplication1.GUI.TabSale
 {
 
@@ -35,10 +36,10 @@ namespace DXApplication1.GUI.TabSale
         {
             List<DTO.Table> listTable = BUS_Table.Instance.GetListTable();
             int maxTable = BUS_Table.Instance.CountTable();
-            Color[] color = new Color[] { Color.Aqua, Color.BlueViolet };
+            Color[] color = new Color[] { Color.Orange, System.Drawing.Color.DodgerBlue};
             pnlTable.BackColor = Color.Azure;
             pnlTable.AutoScroll = true;
-            int size = 60;
+            int size = 100;
             for (int i = 0; i < maxTable; ++i)
             {
                 Button btn = new Button()

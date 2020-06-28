@@ -28,20 +28,17 @@
         /// </summary>
         private void InitializeComponent()
         {
-            DevExpress.XtraCharts.XYDiagram xyDiagram1 = new DevExpress.XtraCharts.XYDiagram();
-            DevExpress.XtraCharts.Series series1 = new DevExpress.XtraCharts.Series();
-            DevExpress.XtraCharts.StackedBarSeriesView stackedBarSeriesView1 = new DevExpress.XtraCharts.StackedBarSeriesView();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(fStatistic));
             this.dtgvRevenue = new DevExpress.XtraGrid.GridControl();
             this.gridView1 = new DevExpress.XtraGrid.Views.Grid.GridView();
-            this.gridColumn2 = new DevExpress.XtraGrid.Columns.GridColumn();
             this.gridColumn1 = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.gridColumn2 = new DevExpress.XtraGrid.Columns.GridColumn();
             this.gridColumn3 = new DevExpress.XtraGrid.Columns.GridColumn();
             this.panelControl11 = new DevExpress.XtraEditors.PanelControl();
             this.labelControl6 = new DevExpress.XtraEditors.LabelControl();
             this.panelControl2 = new DevExpress.XtraEditors.PanelControl();
             this.labelControl2 = new DevExpress.XtraEditors.LabelControl();
-            this.chartControl1 = new DevExpress.XtraCharts.ChartControl();
+            this.chartControl = new DevExpress.XtraCharts.ChartControl();
             this.panelControl4 = new DevExpress.XtraEditors.PanelControl();
             this.panelControl1 = new DevExpress.XtraEditors.PanelControl();
             this.labelControl1 = new DevExpress.XtraEditors.LabelControl();
@@ -56,10 +53,7 @@
             this.panelControl11.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.panelControl2)).BeginInit();
             this.panelControl2.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.chartControl1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(xyDiagram1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(series1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(stackedBarSeriesView1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.chartControl)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.panelControl4)).BeginInit();
             this.panelControl4.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.panelControl1)).BeginInit();
@@ -75,7 +69,7 @@
             this.dtgvRevenue.MainView = this.gridView1;
             this.dtgvRevenue.Margin = new System.Windows.Forms.Padding(4);
             this.dtgvRevenue.Name = "dtgvRevenue";
-            this.dtgvRevenue.Size = new System.Drawing.Size(415, 273);
+            this.dtgvRevenue.Size = new System.Drawing.Size(299, 270);
             this.dtgvRevenue.TabIndex = 2;
             this.dtgvRevenue.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
             this.gridView1});
@@ -83,53 +77,42 @@
             // gridView1
             // 
             this.gridView1.Columns.AddRange(new DevExpress.XtraGrid.Columns.GridColumn[] {
-            this.gridColumn2,
             this.gridColumn1,
+            this.gridColumn2,
             this.gridColumn3});
             this.gridView1.DetailHeight = 431;
             this.gridView1.GridControl = this.dtgvRevenue;
             this.gridView1.Name = "gridView1";
             // 
-            // gridColumn2
-            // 
-            this.gridColumn2.AppearanceHeader.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.gridColumn2.AppearanceHeader.ForeColor = System.Drawing.Color.Black;
-            this.gridColumn2.AppearanceHeader.Options.UseFont = true;
-            this.gridColumn2.AppearanceHeader.Options.UseForeColor = true;
-            this.gridColumn2.Caption = "STT";
-            this.gridColumn2.MinWidth = 27;
-            this.gridColumn2.Name = "gridColumn2";
-            this.gridColumn2.Visible = true;
-            this.gridColumn2.VisibleIndex = 0;
-            this.gridColumn2.Width = 100;
-            // 
             // gridColumn1
             // 
-            this.gridColumn1.AppearanceHeader.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.gridColumn1.AppearanceHeader.ForeColor = System.Drawing.Color.Black;
-            this.gridColumn1.AppearanceHeader.Options.UseFont = true;
-            this.gridColumn1.AppearanceHeader.Options.UseForeColor = true;
-            this.gridColumn1.Caption = "Ngày";
-            this.gridColumn1.FieldName = "DatePay";
-            this.gridColumn1.MinWidth = 27;
+            this.gridColumn1.Caption = "STT";
+            this.gridColumn1.FieldName = "_cnt";
+            this.gridColumn1.MinWidth = 25;
             this.gridColumn1.Name = "gridColumn1";
             this.gridColumn1.Visible = true;
-            this.gridColumn1.VisibleIndex = 1;
-            this.gridColumn1.Width = 100;
+            this.gridColumn1.VisibleIndex = 0;
+            this.gridColumn1.Width = 54;
+            // 
+            // gridColumn2
+            // 
+            this.gridColumn2.Caption = "Ngày";
+            this.gridColumn2.FieldName = "_d";
+            this.gridColumn2.MinWidth = 25;
+            this.gridColumn2.Name = "gridColumn2";
+            this.gridColumn2.Visible = true;
+            this.gridColumn2.VisibleIndex = 1;
+            this.gridColumn2.Width = 94;
             // 
             // gridColumn3
             // 
-            this.gridColumn3.AppearanceHeader.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.gridColumn3.AppearanceHeader.ForeColor = System.Drawing.Color.Black;
-            this.gridColumn3.AppearanceHeader.Options.UseFont = true;
-            this.gridColumn3.AppearanceHeader.Options.UseForeColor = true;
             this.gridColumn3.Caption = "Doanh thu";
-            this.gridColumn3.FieldName = "Total";
-            this.gridColumn3.MinWidth = 27;
+            this.gridColumn3.FieldName = "_total";
+            this.gridColumn3.MinWidth = 25;
             this.gridColumn3.Name = "gridColumn3";
             this.gridColumn3.Visible = true;
             this.gridColumn3.VisibleIndex = 2;
-            this.gridColumn3.Width = 100;
+            this.gridColumn3.Width = 94;
             // 
             // panelControl11
             // 
@@ -140,7 +123,7 @@
             this.panelControl11.Location = new System.Drawing.Point(1, 12);
             this.panelControl11.Margin = new System.Windows.Forms.Padding(4);
             this.panelControl11.Name = "panelControl11";
-            this.panelControl11.Size = new System.Drawing.Size(413, 41);
+            this.panelControl11.Size = new System.Drawing.Size(298, 41);
             this.panelControl11.TabIndex = 26;
             // 
             // labelControl6
@@ -149,7 +132,7 @@
             this.labelControl6.Appearance.ForeColor = System.Drawing.Color.White;
             this.labelControl6.Appearance.Options.UseFont = true;
             this.labelControl6.Appearance.Options.UseForeColor = true;
-            this.labelControl6.Location = new System.Drawing.Point(84, 11);
+            this.labelControl6.Location = new System.Drawing.Point(35, 12);
             this.labelControl6.Margin = new System.Windows.Forms.Padding(4);
             this.labelControl6.Name = "labelControl6";
             this.labelControl6.Size = new System.Drawing.Size(202, 19);
@@ -162,11 +145,11 @@
             this.panelControl2.Appearance.Options.UseBackColor = true;
             this.panelControl2.BorderStyle = DevExpress.XtraEditors.Controls.BorderStyles.NoBorder;
             this.panelControl2.Controls.Add(this.labelControl2);
-            this.panelControl2.Controls.Add(this.chartControl1);
-            this.panelControl2.Location = new System.Drawing.Point(423, 137);
+            this.panelControl2.Controls.Add(this.chartControl);
+            this.panelControl2.Location = new System.Drawing.Point(311, 137);
             this.panelControl2.Margin = new System.Windows.Forms.Padding(4);
             this.panelControl2.Name = "panelControl2";
-            this.panelControl2.Size = new System.Drawing.Size(545, 274);
+            this.panelControl2.Size = new System.Drawing.Size(657, 274);
             this.panelControl2.TabIndex = 29;
             // 
             // labelControl2
@@ -182,39 +165,20 @@
             this.labelControl2.TabIndex = 0;
             this.labelControl2.Text = "BIỂU ĐỒ DOANH THU THEO NGÀY";
             // 
-            // chartControl1
+            // chartControl
             // 
-            xyDiagram1.AxisX.MinorCount = 1;
-            xyDiagram1.AxisX.NumericScaleOptions.AutoGrid = false;
-            xyDiagram1.AxisX.NumericScaleOptions.GridOffset = 2D;
-            xyDiagram1.AxisX.Title.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            xyDiagram1.AxisX.Title.Text = "Ngày";
-            xyDiagram1.AxisX.Title.TextColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            xyDiagram1.AxisX.Title.Visibility = DevExpress.Utils.DefaultBoolean.True;
-            xyDiagram1.AxisX.VisibleInPanesSerializable = "-1";
-            xyDiagram1.AxisY.Title.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            xyDiagram1.AxisY.Title.Text = "Doanh thu";
-            xyDiagram1.AxisY.Title.TextColor = System.Drawing.Color.FromArgb(((int)(((byte)(12)))), ((int)(((byte)(12)))), ((int)(((byte)(12)))));
-            xyDiagram1.AxisY.Title.Visibility = DevExpress.Utils.DefaultBoolean.True;
-            xyDiagram1.AxisY.VisibleInPanesSerializable = "-1";
-            xyDiagram1.EnableAxisXScrolling = true;
-            xyDiagram1.EnableAxisYScrolling = true;
-            this.chartControl1.Diagram = xyDiagram1;
-            this.chartControl1.Legend.Name = "Default Legend";
-            this.chartControl1.Legend.Title.Text = "Doanh thu";
-            this.chartControl1.Legend.Title.TextColor = System.Drawing.Color.Black;
-            this.chartControl1.Location = new System.Drawing.Point(4, 38);
-            this.chartControl1.Margin = new System.Windows.Forms.Padding(4);
-            this.chartControl1.Name = "chartControl1";
-            this.chartControl1.PaletteName = "Green";
-            series1.Name = "Series 1";
-            stackedBarSeriesView1.Color = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(176)))), ((int)(((byte)(240)))));
-            series1.View = stackedBarSeriesView1;
-            this.chartControl1.SeriesSerializable = new DevExpress.XtraCharts.Series[] {
-        series1};
-            this.chartControl1.SeriesTemplate.SeriesColorizer = null;
-            this.chartControl1.Size = new System.Drawing.Size(537, 231);
-            this.chartControl1.TabIndex = 1;
+            this.chartControl.Legend.Name = "Default Legend";
+            this.chartControl.Legend.Title.Text = "Doanh thu";
+            this.chartControl.Legend.Title.TextColor = System.Drawing.Color.Black;
+            this.chartControl.Location = new System.Drawing.Point(4, 38);
+            this.chartControl.Margin = new System.Windows.Forms.Padding(4);
+            this.chartControl.Name = "chartControl";
+            this.chartControl.PaletteName = "Green";
+            this.chartControl.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
+            this.chartControl.SeriesTemplate.SeriesColorizer = null;
+            this.chartControl.Size = new System.Drawing.Size(649, 231);
+            this.chartControl.TabIndex = 1;
+            
             // 
             // panelControl4
             // 
@@ -226,7 +190,7 @@
             this.panelControl4.Location = new System.Drawing.Point(4, 124);
             this.panelControl4.Margin = new System.Windows.Forms.Padding(4);
             this.panelControl4.Name = "panelControl4";
-            this.panelControl4.Size = new System.Drawing.Size(415, 286);
+            this.panelControl4.Size = new System.Drawing.Size(301, 286);
             this.panelControl4.TabIndex = 31;
             // 
             // panelControl1
@@ -344,10 +308,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.panelControl2)).EndInit();
             this.panelControl2.ResumeLayout(false);
             this.panelControl2.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(xyDiagram1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(stackedBarSeriesView1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(series1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.chartControl1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.chartControl)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.panelControl4)).EndInit();
             this.panelControl4.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.panelControl1)).EndInit();
@@ -362,15 +323,11 @@
         #endregion
         private DevExpress.XtraGrid.GridControl dtgvRevenue;
         private DevExpress.XtraGrid.Views.Grid.GridView gridView1;
-        private DevExpress.XtraGrid.Columns.GridColumn gridColumn1;
-        private DevExpress.XtraGrid.Columns.GridColumn gridColumn2;
-        private DevExpress.XtraGrid.Columns.GridColumn gridColumn3;
         private DevExpress.XtraEditors.PanelControl panelControl11;
         private DevExpress.XtraEditors.LabelControl labelControl6;
         private DevExpress.XtraEditors.PanelControl panelControl2;
         private DevExpress.XtraEditors.LabelControl labelControl2;
         private DevExpress.XtraEditors.PanelControl panelControl4;
-        private DevExpress.XtraCharts.ChartControl chartControl1;
         private DevExpress.XtraEditors.PanelControl panelControl1;
         private DevExpress.XtraEditors.LabelControl labelControl1;
         private DevExpress.XtraEditors.SimpleButton btnBill;
@@ -378,5 +335,9 @@
         private DevExpress.XtraEditors.SimpleButton btnDrink;
         private DevExpress.XtraEditors.SimpleButton btnFood;
         private DevExpress.XtraEditors.PanelControl panelControl3;
+        private DevExpress.XtraGrid.Columns.GridColumn gridColumn1;
+        private DevExpress.XtraGrid.Columns.GridColumn gridColumn2;
+        private DevExpress.XtraGrid.Columns.GridColumn gridColumn3;
+        private DevExpress.XtraCharts.ChartControl chartControl;
     }
 }
