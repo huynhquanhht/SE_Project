@@ -1,0 +1,1153 @@
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DXApplication1.exe.config
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DXApplication1.exe
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DXApplication1.pdb
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.BonusSkins.v19.1.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Data.v19.1.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Utils.v19.1.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraBars.v19.1.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Utils.v19.1.xml
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraBars.v19.1.xml
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.Properties.Resources.resources
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\MR.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.exe.licenses
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\MR.csproj.CopyComplete
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.exe
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.pdb
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\MR.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Xpo.v19.1.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Office.v19.1.Core.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Images.v19.1.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Xpo.v19.1.xml
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Office.v19.1.Core.xml
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Xpo.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Xpo.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Xpo.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Xpo.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.Bill.resources
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.Category.resources
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.Table.resources
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.Menu.resources
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.TabSystem.resources
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.Login.resources
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.xml
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.Employee.resources
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraScheduler.v19.1.Core.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraScheduler.v19.1.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraScheduler.v19.1.xml
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraScheduler.v19.1.Core.xml
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraScheduler.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraScheduler.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraScheduler.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraScheduler.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.Account.resources
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Charts.v19.1.Core.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraCharts.v19.1.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraCharts.v19.1.UI.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Utils.v19.1.UI.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraRichEdit.v19.1.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraCharts.v19.1.xml
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraCharts.v19.1.UI.xml
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.xml
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Utils.v19.1.UI.xml
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraRichEdit.v19.1.xml
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Utils.v19.1.UI.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Utils.v19.1.UI.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Utils.v19.1.UI.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Utils.v19.1.UI.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.Item.resources
+C:\Users\Admin\source\repos\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.TabStatistic.Sales.resources
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DXApplication1.exe.config
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DXApplication1.exe
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DXApplication1.pdb
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.BonusSkins.v19.1.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Charts.v19.1.Core.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Data.v19.1.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Utils.v19.1.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Xpo.v19.1.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraBars.v19.1.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraCharts.v19.1.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraCharts.v19.1.UI.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraScheduler.v19.1.Core.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraScheduler.v19.1.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Utils.v19.1.UI.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Images.v19.1.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraRichEdit.v19.1.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Office.v19.1.Core.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Utils.v19.1.xml
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Xpo.v19.1.xml
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraBars.v19.1.xml
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraCharts.v19.1.xml
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraCharts.v19.1.UI.xml
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.xml
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraScheduler.v19.1.xml
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraScheduler.v19.1.Core.xml
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.xml
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Utils.v19.1.UI.xml
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraRichEdit.v19.1.xml
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Office.v19.1.Core.xml
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Xpo.v19.1.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Xpo.v19.1.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Xpo.v19.1.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Xpo.v19.1.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraScheduler.v19.1.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraScheduler.v19.1.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraScheduler.v19.1.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraScheduler.v19.1.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Utils.v19.1.UI.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Utils.v19.1.UI.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Utils.v19.1.UI.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Utils.v19.1.UI.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\MR.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.TabStatistic.Sales.resources
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.Account.resources
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.Bill.resources
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.Category.resources
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.Employee.resources
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.Table.resources
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.Menu.resources
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.Properties.Resources.resources
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.TabSystem.resources
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.Item.resources
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.Sale.resources
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\MR.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.exe.licenses
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\MR.csproj.CopyComplete
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.exe
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.pdb
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.All.ChangePass.resources
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.All.PersonalInfo.resources
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.TabSale.XtraForm1.resources
+C:\Users\Admin\Downloads\SE_Project-PhucTrinh\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.All.Login.resources
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DXApplication1.exe.config
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DXApplication1.exe
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DXApplication1.pdb
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.BonusSkins.v19.1.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Charts.v19.1.Core.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Data.v19.1.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Utils.v19.1.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Xpo.v19.1.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraBars.v19.1.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraCharts.v19.1.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraCharts.v19.1.UI.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraScheduler.v19.1.Core.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraScheduler.v19.1.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Utils.v19.1.UI.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Images.v19.1.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraRichEdit.v19.1.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Office.v19.1.Core.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Utils.v19.1.xml
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Xpo.v19.1.xml
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraBars.v19.1.xml
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraCharts.v19.1.xml
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraCharts.v19.1.UI.xml
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.xml
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraScheduler.v19.1.xml
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraScheduler.v19.1.Core.xml
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.xml
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Utils.v19.1.UI.xml
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraRichEdit.v19.1.xml
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Office.v19.1.Core.xml
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Xpo.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Xpo.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Xpo.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Xpo.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraScheduler.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraScheduler.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraScheduler.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraScheduler.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Utils.v19.1.UI.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Utils.v19.1.UI.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Utils.v19.1.UI.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Utils.v19.1.UI.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\MR.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.All.ChangePass.resources
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.All.Login.resources
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.All.PersonalInfo.resources
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.TabSale.XtraForm1.resources
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.TabStatistic.Sales.resources
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.Account.resources
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.Bill.resources
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.Category.resources
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.Employee.resources
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.Table.resources
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.Menu.resources
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.Properties.Resources.resources
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.TabSystem.resources
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.Item.resources
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.Sale.resources
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\MR.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.exe.licenses
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\MR.csproj.CopyComplete
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.exe
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.pdb
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DXApplication1.exe.config
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DXApplication1.exe
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DXApplication1.pdb
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.BonusSkins.v19.1.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Charts.v19.1.Core.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Data.v19.1.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Utils.v19.1.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Xpo.v19.1.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraBars.v19.1.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraCharts.v19.1.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraCharts.v19.1.UI.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraScheduler.v19.1.Core.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraScheduler.v19.1.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Utils.v19.1.UI.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Images.v19.1.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraRichEdit.v19.1.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Office.v19.1.Core.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Utils.v19.1.xml
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Xpo.v19.1.xml
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraBars.v19.1.xml
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraCharts.v19.1.xml
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraCharts.v19.1.UI.xml
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.xml
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraScheduler.v19.1.xml
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraScheduler.v19.1.Core.xml
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.xml
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Utils.v19.1.UI.xml
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraRichEdit.v19.1.xml
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Office.v19.1.Core.xml
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Xpo.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Xpo.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Xpo.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Xpo.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraScheduler.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraScheduler.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraScheduler.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraScheduler.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Utils.v19.1.UI.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Utils.v19.1.UI.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Utils.v19.1.UI.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Utils.v19.1.UI.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\MR.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.All.ChangePass.resources
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.All.PersonalInfo.resources
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.TabSale.XtraForm1.resources
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.TabStatistic.Sales.resources
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.Bill.resources
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.Menu.resources
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.Properties.Resources.resources
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.TabSystem.resources
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\MR.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.exe.licenses
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\MR.csproj.CopyComplete
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.exe
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.pdb
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.frm_Account.resources
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.frm_Category.resources
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.frm_Employee.resources
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.frm_Table.resources
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.frm_Item.resources
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.Form1.resources
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.All.frm_Login.resources
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.View.All.FormMessageBox.resources
+C:\Users\Admin\source\repos\MR1 - 17.5\SE_Project-PhucTrinh\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.View.All.FormYesNoBox.resources
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\MR.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.All.ChangePass.resources
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.All.frm_Login.resources
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.View.All.FormMessageBox.resources
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.All.PersonalInfo.resources
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.View.All.FormYesNoBox.resources
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.TabSale.XtraForm1.resources
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.TabStatistic.Sales.resources
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.frm_Account.resources
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.Bill.resources
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.frm_Category.resources
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.frm_Employee.resources
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.frm_Table.resources
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.Menu.resources
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.Properties.Resources.resources
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.TabSystem.resources
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.frm_Item.resources
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\MR.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.exe.licenses
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.exe
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.pdb
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DXApplication1.exe.config
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DXApplication1.exe
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DXApplication1.pdb
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.BonusSkins.v19.1.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Charts.v19.1.Core.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Data.v19.1.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Utils.v19.1.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Xpo.v19.1.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraBars.v19.1.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraCharts.v19.1.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraCharts.v19.1.UI.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraScheduler.v19.1.Core.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraScheduler.v19.1.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Utils.v19.1.UI.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Images.v19.1.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraRichEdit.v19.1.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Office.v19.1.Core.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Utils.v19.1.xml
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Xpo.v19.1.xml
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraBars.v19.1.xml
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraCharts.v19.1.xml
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraCharts.v19.1.UI.xml
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.xml
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraScheduler.v19.1.xml
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraScheduler.v19.1.Core.xml
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.xml
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Utils.v19.1.UI.xml
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraRichEdit.v19.1.xml
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Office.v19.1.Core.xml
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Xpo.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Xpo.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Xpo.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Xpo.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraScheduler.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraScheduler.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraScheduler.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraScheduler.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Utils.v19.1.UI.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Utils.v19.1.UI.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Utils.v19.1.UI.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Utils.v19.1.UI.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\MR.csproj.CopyComplete
+C:\Users\Admin\Desktop\SE_Project\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.View.TabSystem.FormBillInfo.resources
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.All.ChangePass.resources
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.All.frm_Login.resources
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.View.All.FormMessageBox.resources
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.All.PersonalInfo.resources
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.View.All.FormYesNoBox.resources
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.frm_Account.resources
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.Bill.resources
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.View.TabSystem.FormBillInfo.resources
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.frm_Category.resources
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.frm_Employee.resources
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.frm_Table.resources
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.Menu.resources
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.Properties.Resources.resources
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.TabSystem.resources
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.frm_Item.resources
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\MR.csproj.GenerateResource.cache
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.exe.licenses
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.exe
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.pdb
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DXApplication1.exe.config
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DXApplication1.exe
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DXApplication1.pdb
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.BonusSkins.v19.1.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Charts.v19.1.Core.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Data.v19.1.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Utils.v19.1.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Xpo.v19.1.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraBars.v19.1.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraCharts.v19.1.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraCharts.v19.1.UI.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraScheduler.v19.1.Core.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraScheduler.v19.1.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\EntityFramework.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\EntityFramework.SqlServer.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Utils.v19.1.UI.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Images.v19.1.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraRichEdit.v19.1.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Office.v19.1.Core.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Data.v19.1.xml
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Utils.v19.1.xml
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Xpo.v19.1.xml
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraBars.v19.1.xml
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraCharts.v19.1.xml
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraCharts.v19.1.UI.xml
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.xml
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraScheduler.v19.1.xml
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraScheduler.v19.1.Core.xml
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.xml
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\EntityFramework.xml
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\EntityFramework.SqlServer.xml
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Utils.v19.1.UI.xml
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraRichEdit.v19.1.xml
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Office.v19.1.Core.xml
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Xpo.v19.1.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Xpo.v19.1.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Xpo.v19.1.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Xpo.v19.1.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraCharts.v19.1.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraCharts.v19.1.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraCharts.v19.1.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraCharts.v19.1.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraScheduler.v19.1.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraScheduler.v19.1.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraScheduler.v19.1.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraScheduler.v19.1.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Utils.v19.1.UI.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Utils.v19.1.UI.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Utils.v19.1.UI.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Utils.v19.1.UI.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraRichEdit.v19.1.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraRichEdit.v19.1.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraRichEdit.v19.1.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraRichEdit.v19.1.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.TabSale.fSale.resources
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\MR.csproj.CopyComplete
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.TabStatistic.fStatistic.resources
+E:\DoAn\DoAnV1\SE_Project\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\MR.csprojAssemblyReference.cache
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DXApplication1.exe.config
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DXApplication1.exe
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DXApplication1.pdb
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.BonusSkins.v19.1.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Charts.v19.1.Core.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Data.v19.1.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Utils.v19.1.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Xpo.v19.1.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraBars.v19.1.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraCharts.v19.1.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraCharts.v19.1.UI.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraScheduler.v19.1.Core.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraScheduler.v19.1.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\EntityFramework.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\EntityFramework.SqlServer.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Utils.v19.1.UI.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Images.v19.1.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraRichEdit.v19.1.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Office.v19.1.Core.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Data.v19.1.xml
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Utils.v19.1.xml
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Xpo.v19.1.xml
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraBars.v19.1.xml
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraCharts.v19.1.xml
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraCharts.v19.1.UI.xml
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.xml
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraScheduler.v19.1.xml
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraScheduler.v19.1.Core.xml
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.xml
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\EntityFramework.xml
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\EntityFramework.SqlServer.xml
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Utils.v19.1.UI.xml
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.XtraRichEdit.v19.1.xml
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\DevExpress.Office.v19.1.Core.xml
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Xpo.v19.1.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Xpo.v19.1.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Xpo.v19.1.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Xpo.v19.1.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraCharts.v19.1.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraCharts.v19.1.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraCharts.v19.1.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraCharts.v19.1.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraScheduler.v19.1.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraScheduler.v19.1.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraScheduler.v19.1.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraScheduler.v19.1.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Utils.v19.1.UI.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Utils.v19.1.UI.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Utils.v19.1.UI.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Utils.v19.1.UI.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.XtraRichEdit.v19.1.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.XtraRichEdit.v19.1.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.XtraRichEdit.v19.1.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.XtraRichEdit.v19.1.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\MR.csprojAssemblyReference.cache
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.All.ChangePass.resources
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.All.frm_Login.resources
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.View.All.FormMessageBox.resources
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.All.PersonalInfo.resources
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.View.All.FormYesNoBox.resources
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.TabSale.fSale.resources
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.TabStatistic.fStatistic.resources
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.frm_Account.resources
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.Bill.resources
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.View.TabSystem.FormBillInfo.resources
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.frm_Category.resources
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.frm_Employee.resources
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.GUI.frm_Table.resources
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.Menu.resources
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.Properties.Resources.resources
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.TabSystem.resources
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.frm_Item.resources
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\MR.csproj.GenerateResource.cache
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.exe.licenses
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\MR.csproj.CopyComplete
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.exe
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.pdb
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.View.TabSystem.FormBillDetail.resources
+E:\TMP\SE_Project-master\MR1 - 17.5\DXApplication1\DXApplication1\obj\Debug\DXApplication1.View.All.FormAddAccount.resources
